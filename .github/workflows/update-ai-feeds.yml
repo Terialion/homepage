@@ -1,0 +1,29 @@
+name: Update AI briefing
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ai-feeds
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - name: Refresh articles
+        run: python3 scripts/update_feeds.py
+      - name: Save updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add desk/data/feeds.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update AI briefing"
+          git push
