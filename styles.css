@@ -3,14 +3,17 @@
   --ink: #30363b;
   --ink-strong: #1e252a;
   --muted: #667079;
-  --blue: #28608f;
-  --blue-dark: #1f4c72;
-  --line: #e2e6e9;
+  --blue: #1f608a;
+  --red: #8e3044;
+  --red-dark: #702334;
+  --line: #dfe5e8;
   --paper: #ffffff;
   --sidebar: #f7f9fa;
   --max-width: 1160px;
   --sans: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI",
     Helvetica, Arial, sans-serif;
+  --serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Palatino,
+    Georgia, serif;
 }
 
 * {
@@ -44,11 +47,11 @@ a {
 }
 
 a:hover {
-  color: var(--blue-dark);
+  color: var(--red-dark);
 }
 
 a:focus-visible {
-  outline: 3px solid #d09b42;
+  outline: 3px solid #bd6979;
   outline-offset: 3px;
 }
 
@@ -90,8 +93,9 @@ a:focus-visible {
 
 .topbar-name {
   color: var(--ink-strong);
-  font-size: 15px;
-  font-weight: 750;
+  font-family: var(--serif);
+  font-size: 16px;
+  font-weight: 700;
   text-decoration: none;
 }
 
@@ -110,7 +114,7 @@ a:focus-visible {
 
 .topbar nav a:hover,
 .topbar nav a:focus-visible {
-  color: var(--blue);
+  color: var(--red-dark);
 }
 
 .page-shell {
@@ -142,7 +146,9 @@ a:focus-visible {
 .profile h2 {
   margin: 28px 0 0;
   color: var(--ink-strong);
-  font-size: 25px;
+  font-family: var(--serif);
+  font-size: 26px;
+  font-weight: 600;
   line-height: 1.25;
 }
 
@@ -205,8 +211,8 @@ a:focus-visible {
 }
 
 .social-link:hover {
-  border-color: var(--ink-strong);
-  background: var(--ink-strong);
+  border-color: var(--red-dark);
+  background: var(--red-dark);
   color: #ffffff;
 }
 
@@ -239,9 +245,9 @@ a:focus-visible {
 .intro h1 {
   margin: 0;
   color: var(--ink-strong);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--serif);
   font-size: 52px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.12;
 }
 
@@ -270,8 +276,10 @@ a:focus-visible {
 .resume-section > h2 {
   margin: 0 0 30px;
   color: var(--ink-strong);
-  font-size: 27px;
-  line-height: 1.3;
+  font-family: var(--serif);
+  font-size: 29px;
+  font-weight: 600;
+  line-height: 1.25;
 }
 
 .resume-section > h2::before {
@@ -336,7 +344,7 @@ a:focus-visible {
 
 .awards-list time {
   padding-top: 2px;
-  color: var(--blue);
+  color: var(--red);
   font-size: 12px;
   font-variant-numeric: tabular-nums;
   font-weight: 750;
@@ -347,6 +355,10 @@ a:focus-visible {
   color: var(--ink-strong);
   font-size: 16px;
   font-weight: 700;
+}
+
+.award-title:hover {
+  color: var(--red-dark);
 }
 
 .awards-list p {
