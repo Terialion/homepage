@@ -161,7 +161,7 @@ function renderFeeds(source = "all") {
 
 async function loadFeeds() {
   try {
-    const response = await fetch("data/feeds.json", { cache: "no-cache" });
+    const response = await fetch("data/feeds.json");
     if (!response.ok) throw new Error(`Feed request failed: ${response.status}`);
 
     const data = await response.json();
