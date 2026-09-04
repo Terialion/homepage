@@ -44,7 +44,7 @@ input {
   position: fixed;
   z-index: -2;
   inset: 0;
-  background-image: url("../assets/hero-landscape.jpg");
+  background-image: url("../assets/hero-landscape.jpg?v=20260905");
   background-position: center;
   background-size: cover;
 }
