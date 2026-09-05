@@ -7,15 +7,15 @@
     <meta name="robots" content="noindex, nofollow" />
     <title>Terialion 的起始页</title>
     <link rel="icon" href="data:," />
-    <link rel="preload" href="../assets/hero-landscape.jpg?v=20260905" as="image" />
-    <link rel="stylesheet" href="desk.css?v=20260905" />
-    <script src="desk.js?v=20260905" defer></script>
+    <link rel="preload" href="../assets/hero-landscape.jpg?v=20260905-2" as="image" />
+    <link rel="stylesheet" href="desk.css?v=20260905-3" />
+    <script src="desk.js?v=20260905-3" defer></script>
   </head>
-  <body>
-    <a class="skip-link" href="#shortcuts">跳到常用入口</a>
+  <body data-appearance="balanced">
+    <a class="skip-link" href="#home-main">跳到工作区</a>
     <div class="backdrop" aria-hidden="true"></div>
 
-    <main class="desk-shell">
+    <main class="desk-shell" id="home-view">
       <section class="identity" aria-labelledby="desk-title">
         <div>
           <div class="wordmark">
@@ -46,13 +46,13 @@
         </div>
 
         <div class="status-panel glass-panel">
-          <p class="panel-label">当前关注</p>
-          <p>AI Infra · Kernel · System · Compiler</p>
-          <span><i aria-hidden="true"></i> Learning in public</span>
+          <p class="panel-label">当前状态</p>
+          <p id="home-status">AI Infra · Kernel · System · Compiler</p>
+          <span><i aria-hidden="true"></i><span id="home-status-meta">Learning in public</span></span>
         </div>
       </section>
 
-      <section class="workspace" aria-label="起始页工具">
+      <section class="workspace" id="home-main" aria-label="起始页工具">
         <div class="widget-row">
           <section class="quote-panel glass-panel" aria-labelledby="quote-title">
             <div class="quote-heading">
@@ -74,7 +74,7 @@
 
           <div class="clock-panel glass-panel">
             <p class="panel-label">本地时间</p>
-            <time id="desk-date" class="desk-date">2026 年 9 月 4 日 星期五</time>
+            <time id="desk-date" class="desk-date">2026 年 9 月 5 日 星期六</time>
             <time id="desk-time" class="desk-time">00:00:00</time>
           </div>
         </div>
@@ -99,45 +99,43 @@
           </button>
         </form>
 
-        <section class="feed-panel glass-panel" aria-labelledby="feed-title">
-          <div class="feed-heading">
+        <section class="module-launcher" id="module-launcher" aria-labelledby="launcher-title">
+          <div class="launcher-heading">
             <div>
-              <p class="panel-label">每日推送</p>
-              <h2 id="feed-title">AI Briefing</h2>
+              <p class="panel-label">Workspace</p>
+              <h2 id="launcher-title">工作区</h2>
             </div>
-            <time id="feed-updated" class="feed-updated">正在更新</time>
-          </div>
-
-          <div class="feed-filters" aria-label="筛选文章来源">
-            <button type="button" data-source="all" aria-pressed="true">全部</button>
-            <button type="button" data-source="新智元" aria-pressed="false">新智元</button>
-            <button type="button" data-source="量子位" aria-pressed="false">量子位</button>
-            <button type="button" data-source="机器之心" aria-pressed="false">机器之心</button>
-          </div>
-
-          <ol id="feed-list" class="feed-list" aria-live="polite">
-            <li class="feed-message">正在载入今日文章...</li>
-          </ol>
-        </section>
-
-        <section class="shortcuts" id="shortcuts" aria-labelledby="shortcuts-title">
-          <div class="shortcuts-heading">
-            <div>
-              <p class="panel-label">常用入口</p>
-              <h2 id="shortcuts-title">Places</h2>
-            </div>
-            <button
-              class="icon-button"
-              id="edit-shortcuts"
-              type="button"
-              aria-label="编辑常用入口"
-              title="编辑常用入口"
-            >
-              <span aria-hidden="true">&#9998;</span>
+            <button class="icon-button" type="button" data-open-settings aria-label="打开设置" title="设置">
+              <span aria-hidden="true">&#9881;</span>
             </button>
           </div>
 
-          <div class="shortcut-grid" id="shortcut-grid"></div>
+          <nav class="module-grid" aria-label="工作区模块">
+            <a class="module-card glass-panel" href="#today">
+              <span class="module-symbol" aria-hidden="true">&#10003;</span>
+              <span><strong>Today</strong><small id="summary-today">今天从这里开始</small></span>
+            </a>
+            <a class="module-card glass-panel" href="#projects">
+              <span class="module-symbol" aria-hidden="true">&#9671;</span>
+              <span><strong>Projects</strong><small id="summary-projects">暂无进行中项目</small></span>
+            </a>
+            <a class="module-card glass-panel" href="#library">
+              <span class="module-symbol" aria-hidden="true">&#9638;</span>
+              <span><strong>Library</strong><small id="summary-library">正在载入文章</small></span>
+            </a>
+            <a class="module-card glass-panel" href="#study">
+              <span class="module-symbol" aria-hidden="true">&#9678;</span>
+              <span><strong>Study</strong><small id="summary-study">学习进度</small></span>
+            </a>
+            <a class="module-card glass-panel" href="#notes">
+              <span class="module-symbol" aria-hidden="true">&#9998;</span>
+              <span><strong>Notes</strong><small id="summary-notes">暂无笔记</small></span>
+            </a>
+            <a class="module-card glass-panel" href="#toolbox">
+              <span class="module-symbol" aria-hidden="true">&#8984;</span>
+              <span><strong>Toolbox</strong><small id="summary-toolbox">常用入口</small></span>
+            </a>
+          </nav>
         </section>
 
         <footer class="desk-footer">
@@ -157,6 +155,213 @@
             <span></span>
           </div>
         </footer>
+      </section>
+    </main>
+
+    <main class="workspace-shell" id="workspace-view" hidden>
+      <aside class="workspace-nav glass-panel">
+        <a class="workspace-brand" href="#home">
+          <img src="../assets/profile-avatar-small.jpg" alt="" width="104" height="104" />
+          <span><small>Personal Desk</small><strong>Terialion</strong></span>
+        </a>
+        <nav aria-label="工作区导航">
+          <a href="#today" data-route="today"><span aria-hidden="true">&#10003;</span>Today</a>
+          <a href="#projects" data-route="projects"><span aria-hidden="true">&#9671;</span>Projects</a>
+          <a href="#library" data-route="library"><span aria-hidden="true">&#9638;</span>Library</a>
+          <a href="#study" data-route="study"><span aria-hidden="true">&#9678;</span>Study</a>
+          <a href="#notes" data-route="notes"><span aria-hidden="true">&#9998;</span>Notes</a>
+          <a href="#toolbox" data-route="toolbox"><span aria-hidden="true">&#8984;</span>Toolbox</a>
+        </nav>
+        <div class="workspace-nav-footer">
+          <a href="#home">&#8592; Home</a>
+          <button class="icon-button" type="button" data-open-settings aria-label="打开设置" title="设置">
+            <span aria-hidden="true">&#9881;</span>
+          </button>
+        </div>
+      </aside>
+
+      <section class="workspace-main">
+        <header class="workspace-header">
+          <div>
+            <p class="panel-label">Terialion / Desk</p>
+            <h1 id="workspace-title">Today</h1>
+          </div>
+          <a class="home-button" href="#home" aria-label="返回 Home">&#8592; Home</a>
+        </header>
+
+        <section class="module-view" data-view="today" aria-labelledby="today-title">
+          <div class="view-heading">
+            <div><p class="panel-label">Daily</p><h2 id="today-title">今天</h2></div>
+            <time id="today-date"></time>
+          </div>
+          <div class="module-layout">
+            <section class="tool-panel glass-panel">
+              <div class="tool-heading"><h3>任务</h3><span id="task-count">0 项待完成</span></div>
+              <form class="entry-form task-form" id="task-form">
+                <label class="visually-hidden" for="task-title">任务名称</label>
+                <input id="task-title" name="title" type="text" maxlength="80" placeholder="添加今天要完成的事情" required />
+                <label class="visually-hidden" for="task-due">日期</label>
+                <input id="task-due" name="due" type="date" />
+                <label class="visually-hidden" for="task-priority">优先级</label>
+                <select id="task-priority" name="priority" aria-label="优先级">
+                  <option value="normal">普通</option>
+                  <option value="high">重要</option>
+                  <option value="low">稍后</option>
+                </select>
+                <button class="text-button primary" type="submit">添加</button>
+              </form>
+              <div class="segment-control" id="task-filters" aria-label="筛选任务">
+                <button type="button" data-task-filter="open" aria-pressed="true">待完成</button>
+                <button type="button" data-task-filter="all" aria-pressed="false">全部</button>
+                <button type="button" data-task-filter="done" aria-pressed="false">已完成</button>
+              </div>
+              <ul class="record-list" id="task-list" aria-live="polite"></ul>
+            </section>
+
+            <div class="side-stack">
+              <section class="tool-panel glass-panel focus-panel">
+                <div class="tool-heading">
+                  <h3>专注计时</h3>
+                  <select id="focus-duration" aria-label="专注时长">
+                    <option value="25">25 分钟</option>
+                    <option value="50">50 分钟</option>
+                  </select>
+                </div>
+                <time id="focus-time" datetime="PT25M">25:00</time>
+                <div class="button-row">
+                  <button class="text-button primary" id="focus-toggle" type="button">开始</button>
+                  <button class="text-button secondary" id="focus-reset" type="button">重置</button>
+                </div>
+                <p id="focus-count">今日完成 0 次</p>
+              </section>
+
+              <section class="tool-panel glass-panel">
+                <div class="tool-heading"><h3>每日回顾</h3><span id="review-status"></span></div>
+                <textarea id="daily-review" rows="6" maxlength="1200" placeholder="记录今天完成了什么"></textarea>
+              </section>
+            </div>
+          </div>
+        </section>
+
+        <section class="module-view" data-view="projects" aria-labelledby="projects-title" hidden>
+          <div class="view-heading"><div><p class="panel-label">Long term</p><h2 id="projects-title">项目</h2></div><span id="project-count"></span></div>
+          <section class="tool-panel glass-panel">
+            <form class="entry-form project-form" id="project-form">
+              <label class="visually-hidden" for="project-title">项目名称</label>
+              <input id="project-title" name="title" type="text" maxlength="60" placeholder="项目名称" required />
+              <label class="visually-hidden" for="project-next">下一里程碑</label>
+              <input id="project-next" name="next" type="text" maxlength="100" placeholder="下一里程碑" />
+              <label class="visually-hidden" for="project-due">目标日期</label>
+              <input id="project-due" name="due" type="date" />
+              <button class="text-button primary" type="submit">添加项目</button>
+            </form>
+            <ul class="project-list" id="project-list" aria-live="polite"></ul>
+          </section>
+        </section>
+
+        <section class="module-view" data-view="library" aria-labelledby="library-title" hidden>
+          <div class="view-heading">
+            <div><p class="panel-label">Read &amp; collect</p><h2 id="library-title">资料库</h2></div>
+            <time id="feed-updated" class="feed-updated">正在更新</time>
+          </div>
+          <div class="library-layout">
+            <section class="tool-panel glass-panel">
+              <div class="library-toolbar">
+                <label class="visually-hidden" for="library-search">搜索资料</label>
+                <input id="library-search" type="search" placeholder="搜索文章、论文或来源" autocomplete="off" />
+                <div class="segment-control" id="library-state-filters" aria-label="筛选阅读状态">
+                  <button type="button" data-library-state="unread" aria-pressed="true">未读</button>
+                  <button type="button" data-library-state="saved" aria-pressed="false">收藏</button>
+                  <button type="button" data-library-state="later" aria-pressed="false">稍后</button>
+                  <button type="button" data-library-state="read" aria-pressed="false">已读</button>
+                  <button type="button" data-library-state="all" aria-pressed="false">全部</button>
+                </div>
+              </div>
+              <div class="feed-filters" id="library-source-filters" aria-label="筛选文章来源">
+                <button type="button" data-library-source="all" aria-pressed="true">全部</button>
+                <button type="button" data-library-source="新智元" aria-pressed="false">新智元</button>
+                <button type="button" data-library-source="量子位" aria-pressed="false">量子位</button>
+                <button type="button" data-library-source="机器之心" aria-pressed="false">机器之心</button>
+                <button type="button" data-library-source="manual" aria-pressed="false">自存资料</button>
+              </div>
+              <ol id="library-list" class="library-list" aria-live="polite">
+                <li class="feed-message">正在载入今日文章...</li>
+              </ol>
+            </section>
+
+            <aside class="tool-panel glass-panel save-resource-panel">
+              <div class="tool-heading"><h3>保存资料</h3><span>Paper / Web</span></div>
+              <form class="stack-form" id="resource-form">
+                <label for="resource-title">标题</label>
+                <input id="resource-title" name="title" type="text" maxlength="120" required />
+                <label for="resource-url">网址</label>
+                <input id="resource-url" name="url" type="url" inputmode="url" placeholder="https://" required />
+                <label for="resource-kind">类型</label>
+                <select id="resource-kind" name="kind"><option value="Paper">Paper</option><option value="Web">Web</option></select>
+                <button class="text-button primary" type="submit">保存</button>
+              </form>
+            </aside>
+          </div>
+        </section>
+
+        <section class="module-view" data-view="study" aria-labelledby="study-title" hidden>
+          <div class="view-heading"><div><p class="panel-label">Practice</p><h2 id="study-title">学习</h2></div><span id="study-summary"></span></div>
+          <div class="study-overview">
+            <a class="study-card glass-panel" href="../tools/huawei-ai-quiz.html">
+              <span class="module-symbol" aria-hidden="true">HW</span>
+              <span><small>题库</small><strong>华为 AI 方向刷题</strong><em id="quiz-progress-label">0 / 243</em></span>
+              <span class="mini-progress"><i id="quiz-progress-bar"></i></span>
+            </a>
+            <a class="study-card glass-panel" href="https://leetcode.cn/studyplan/top-100-liked/" target="_blank" rel="noreferrer">
+              <span class="module-symbol" aria-hidden="true">LC</span>
+              <span><small>算法</small><strong>LeetCode 热题 100</strong><em>打开学习计划 &#8599;</em></span>
+            </a>
+          </div>
+          <section class="tool-panel glass-panel study-goals-panel">
+            <div class="tool-heading"><h3>学习目标</h3><span id="study-goal-count"></span></div>
+            <form class="entry-form" id="study-goal-form">
+              <label class="visually-hidden" for="study-goal-title">学习目标</label>
+              <input id="study-goal-title" name="title" type="text" maxlength="80" placeholder="例如：完成 CSAPP 第三章" required />
+              <button class="text-button primary" type="submit">添加</button>
+            </form>
+            <ul class="study-goal-list" id="study-goal-list"></ul>
+          </section>
+        </section>
+
+        <section class="module-view" data-view="notes" aria-labelledby="notes-title" hidden>
+          <div class="view-heading"><div><p class="panel-label">Write</p><h2 id="notes-title">笔记</h2></div><button class="text-button primary" id="new-note" type="button">新建笔记</button></div>
+          <div class="notes-layout">
+            <section class="notes-index glass-panel">
+              <label class="visually-hidden" for="note-search">搜索笔记</label>
+              <input id="note-search" type="search" placeholder="搜索标题、标签或正文" autocomplete="off" />
+              <ol id="note-list" aria-live="polite"></ol>
+            </section>
+            <section class="note-editor glass-panel">
+              <form id="note-form">
+                <label class="visually-hidden" for="note-title">笔记标题</label>
+                <input id="note-title" name="title" type="text" maxlength="100" placeholder="笔记标题" required />
+                <label class="visually-hidden" for="note-tags">标签</label>
+                <input id="note-tags" name="tags" type="text" maxlength="120" placeholder="标签，用逗号分隔" />
+                <label class="visually-hidden" for="note-body">Markdown 正文</label>
+                <textarea id="note-body" name="body" rows="18" maxlength="30000" placeholder="# Markdown 正文"></textarea>
+                <footer>
+                  <label class="pin-note"><input id="note-pinned" name="pinned" type="checkbox" /> 置顶</label>
+                  <div class="button-row">
+                    <button class="text-button danger" id="delete-note" type="button" disabled>删除</button>
+                    <button class="text-button primary" type="submit">保存笔记</button>
+                  </div>
+                </footer>
+              </form>
+            </section>
+          </div>
+        </section>
+
+        <section class="module-view" data-view="toolbox" aria-labelledby="toolbox-title" hidden>
+          <div class="view-heading"><div><p class="panel-label">Links &amp; apps</p><h2 id="toolbox-title">工具箱</h2></div><button class="icon-button" id="edit-shortcuts" type="button" aria-label="编辑常用入口" title="编辑常用入口"><span aria-hidden="true">&#9998;</span></button></div>
+          <section class="tool-panel glass-panel">
+            <div class="shortcut-grid" id="shortcut-grid"></div>
+          </section>
+        </section>
       </section>
     </main>
 
@@ -191,5 +396,31 @@
         </footer>
       </form>
     </dialog>
+
+    <dialog class="settings-dialog glass-panel" id="settings-dialog">
+      <form method="dialog">
+        <header>
+          <div><p class="panel-label">Personalize</p><h2>Desk 设置</h2></div>
+          <button class="icon-button" type="submit" aria-label="关闭设置" title="关闭"><span aria-hidden="true">&#10005;</span></button>
+        </header>
+        <label for="appearance-select">显示模式</label>
+        <select id="appearance-select">
+          <option value="balanced">平衡</option>
+          <option value="clear">清晰背景</option>
+          <option value="focus">专注</option>
+        </select>
+        <section class="settings-data">
+          <h3>本地数据</h3>
+          <div class="button-row">
+            <button class="text-button secondary" id="export-data" type="button">导出 JSON</button>
+            <label class="text-button secondary import-button">导入 JSON<input id="import-data" type="file" accept="application/json,.json" /></label>
+          </div>
+          <button class="text-button danger" id="clear-desk-data" type="button">清空 Desk 数据</button>
+          <p id="settings-status" role="status"></p>
+        </section>
+      </form>
+    </dialog>
+
+    <div class="desk-toast" id="desk-toast" role="status" aria-live="polite"></div>
   </body>
 </html>
