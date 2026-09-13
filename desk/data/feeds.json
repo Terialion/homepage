@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T03:03:19Z",
+  "generatedAt": "2026-09-13T03:03:57Z",
   "sources": [
     {
       "name": "新智元",
@@ -18,6 +18,60 @@
     }
   ],
   "items": [
+    {
+      "source": "量子位",
+      "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
+      "url": "https://www.qbitai.com/2026/09/487860.html",
+      "publishedAt": "2026-09-12T11:38:16Z"
+    },
+    {
+      "source": "量子位",
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "url": "https://www.qbitai.com/2026/09/487796.html",
+      "publishedAt": "2026-09-12T08:49:02Z"
+    },
+    {
+      "source": "量子位",
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "url": "https://www.qbitai.com/2026/09/487752.html",
+      "publishedAt": "2026-09-12T08:15:31Z"
+    },
+    {
+      "source": "量子位",
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "url": "https://www.qbitai.com/2026/09/487701.html",
+      "publishedAt": "2026-09-12T07:33:54Z"
+    },
+    {
+      "source": "量子位",
+      "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
+      "url": "https://www.qbitai.com/2026/09/487688.html",
+      "publishedAt": "2026-09-12T05:58:41Z"
+    },
+    {
+      "source": "量子位",
+      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "url": "https://www.qbitai.com/2026/09/487653.html",
+      "publishedAt": "2026-09-12T04:53:58Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "淘天自研编码器斩获MSU 6项冠军，视频编码技术支撑内容体验升级",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056768&idx=1&sn=12328292ebfa03f4d8373e374df5bf9b",
+      "publishedAt": "2026-09-12T03:00:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "从认路到「跌倒再战」，机器人也在重走大模型的Scaling之路？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056768&idx=2&sn=4654e82cec450b3529f97ef07f1aa2a4",
+      "publishedAt": "2026-09-12T03:00:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "从「Disable」到「Able」，爱博智能在康复里寻找答案",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056768&idx=3&sn=9e2722e35a74a5363db0f41f212241ab",
+      "publishedAt": "2026-09-12T03:00:00Z"
+    },
     {
       "source": "新智元",
       "title": "英伟达震撼开源Harness！AI自己爆改AI",
@@ -103,12 +157,6 @@
       "publishedAt": "2026-09-11T08:59:28Z"
     },
     {
-      "source": "量子位",
-      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-      "url": "https://www.qbitai.com/2026/09/487273.html",
-      "publishedAt": "2026-09-11T06:19:03Z"
-    },
-    {
       "source": "机器之心",
       "title": "90后发Nature，高中生进ICML，我在这场蚂蚁InTech论坛看见被AI折叠的科研",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056535&idx=1&sn=47e5a4b05b756ef8fee5ffaf95439c00",
@@ -121,30 +169,6 @@
       "publishedAt": "2026-09-11T05:04:00Z"
     },
     {
-      "source": "量子位",
-      "title": "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中",
-      "url": "https://www.qbitai.com/2026/09/487176.html",
-      "publishedAt": "2026-09-11T03:57:32Z"
-    },
-    {
-      "source": "量子位",
-      "title": "3万台无人车之后，这家公司盯上了城市级物理AI",
-      "url": "https://www.qbitai.com/2026/09/487163.html",
-      "publishedAt": "2026-09-11T02:50:47Z"
-    },
-    {
-      "source": "量子位",
-      "title": "OpenAI这是拿千禧年难题当Benchmark刷啊。。。",
-      "url": "https://www.qbitai.com/2026/09/487092.html",
-      "publishedAt": "2026-09-11T01:46:55Z"
-    },
-    {
-      "source": "量子位",
-      "title": "吹爆开源！RunningHub让MiniMax H3满血提速12倍，本地部署照样起飞",
-      "url": "https://www.qbitai.com/2026/09/487055.html",
-      "publishedAt": "2026-09-11T00:55:01Z"
-    },
-    {
       "source": "机器之心",
       "title": "实测央企出品数字员工，它的强大远超预期！",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056207&idx=1&sn=2bca999e11a19f3961b71354c4fa2e02",
@@ -155,12 +179,6 @@
       "title": "国家级顶流AI赛事再开战！第三届「兴智杯」报名开启，等你来战",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056207&idx=2&sn=d2ff6577e47c8e95c9dc78220a84e788",
       "publishedAt": "2026-09-10T11:36:00Z"
-    },
-    {
-      "source": "量子位",
-      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-      "url": "https://www.qbitai.com/2026/09/486934.html",
-      "publishedAt": "2026-09-10T10:17:46Z"
     },
     {
       "source": "机器之心",
@@ -179,24 +197,6 @@
       "title": "端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=1&sn=c26a061b944f571aabbcf2ae440fc96f",
       "publishedAt": "2026-09-08T04:09:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "Agent长时工作如何不跑偏？WorkSwarm用「永续会话」给出解法",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=2&sn=da7bb74bb874248ea6466b4ba920b2d7",
-      "publishedAt": "2026-09-08T04:09:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "机器人基础模型的「协作时代」来了！芝诺机器人发布全球首个协作具身智能基础模型",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055242&idx=1&sn=4869fb9f3976396002f0b988844c1321",
-      "publishedAt": "2026-09-07T03:56:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "大模型企业「跨界」具身即登顶榜首！智象HiDream具身世界模型来了",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055242&idx=2&sn=7375edb00481a6a1b8f731f82a779489",
-      "publishedAt": "2026-09-07T03:56:00Z"
     }
   ]
 }
