@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T03:03:57Z",
+  "generatedAt": "2026-09-14T03:17:47Z",
   "sources": [
     {
       "name": "新智元",
@@ -18,6 +18,48 @@
     }
   ],
   "items": [
+    {
+      "source": "量子位",
+      "title": "智谱提前剧透GLM-6.0：完全自训练方法公开了",
+      "url": "https://www.qbitai.com/2026/09/488694.html",
+      "publishedAt": "2026-09-14T00:30:56Z"
+    },
+    {
+      "source": "量子位",
+      "title": "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+      "url": "https://www.qbitai.com/2026/09/488672.html",
+      "publishedAt": "2026-09-13T07:38:20Z"
+    },
+    {
+      "source": "量子位",
+      "title": "GitHub三榜第一背后，一个“专升本”工程师的十年",
+      "url": "https://www.qbitai.com/2026/09/488519.html",
+      "publishedAt": "2026-09-13T07:20:19Z"
+    },
+    {
+      "source": "量子位",
+      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+      "url": "https://www.qbitai.com/2026/09/488447.html",
+      "publishedAt": "2026-09-13T06:40:25Z"
+    },
+    {
+      "source": "量子位",
+      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "url": "https://www.qbitai.com/2026/09/488380.html",
+      "publishedAt": "2026-09-13T03:13:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "左手推理成本暴降96%，右手性能反超大模型！当小模型学会了何时求助",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056885&idx=1&sn=41944a973ec96b3a392598b4e3c349cf",
+      "publishedAt": "2026-09-13T02:20:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "算法工程师要失业了？阿里和浙大联手提出Astar，用AI指导AI系统进化",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056885&idx=2&sn=44f99018c4f0e3bed9770da929cc3aed",
+      "publishedAt": "2026-09-13T02:20:00Z"
+    },
     {
       "source": "量子位",
       "title": "“算力中国·年度卓越成就”发布 太初元碁超智融合计算系统入选",
@@ -47,12 +89,6 @@
       "title": "Kimi突发K2.8：性能逼近K3，百万上下文全员开放",
       "url": "https://www.qbitai.com/2026/09/487688.html",
       "publishedAt": "2026-09-12T05:58:41Z"
-    },
-    {
-      "source": "量子位",
-      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
-      "url": "https://www.qbitai.com/2026/09/487653.html",
-      "publishedAt": "2026-09-12T04:53:58Z"
     },
     {
       "source": "机器之心",
@@ -127,34 +163,10 @@
       "publishedAt": "2026-09-12T00:00:28Z"
     },
     {
-      "source": "量子位",
-      "title": "银行Agent上岗：4200万小微经营者可用，信贷、票据、财税一把梭",
-      "url": "https://www.qbitai.com/2026/09/487631.html",
-      "publishedAt": "2026-09-11T18:02:36Z"
-    },
-    {
-      "source": "量子位",
-      "title": "啊？Anthropic最高320万招销售，只为服务Meta",
-      "url": "https://www.qbitai.com/2026/09/487573.html",
-      "publishedAt": "2026-09-11T14:05:16Z"
-    },
-    {
-      "source": "量子位",
-      "title": "百度秒哒再升级！让最懂业务的人，亲手造自己的系统",
-      "url": "https://www.qbitai.com/2026/09/487415.html",
-      "publishedAt": "2026-09-11T13:59:09Z"
-    },
-    {
       "source": "新智元",
       "title": "别把杰作留在实验室，张江见",
       "url": "https://aiera.com.cn/2026/09/11/other/admin/113225/%e5%88%ab%e6%8a%8a%e6%9d%b0%e4%bd%9c%e7%95%99%e5%9c%a8%e5%ae%9e%e9%aa%8c%e5%ae%a4%ef%bc%8c%e5%bc%a0%e6%b1%9f%e8%a7%81/",
       "publishedAt": "2026-09-11T12:55:01Z"
-    },
-    {
-      "source": "量子位",
-      "title": "不简单，“吃货快乐榜”也全面AI化了",
-      "url": "https://www.qbitai.com/2026/09/487282.html",
-      "publishedAt": "2026-09-11T08:59:28Z"
     },
     {
       "source": "机器之心",
@@ -185,18 +197,6 @@
       "title": "RoboPapers专访光轮智能谢晨：具身Scaling Law的两座金字塔",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055972&idx=1&sn=ebceced211d1f072be55cbd05c0c397e",
       "publishedAt": "2026-09-09T14:46:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "快去提问！沐神空降小红书，在线答疑",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055972&idx=2&sn=79a359d1bffb0e42556f185751aedd38",
-      "publishedAt": "2026-09-09T14:46:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "端侧模型太夯了！面壁智能开源2B「小钢炮」，通用Agent杀到端侧",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651055602&idx=1&sn=c26a061b944f571aabbcf2ae440fc96f",
-      "publishedAt": "2026-09-08T04:09:00Z"
     }
   ]
 }
