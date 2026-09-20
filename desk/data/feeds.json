@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T03:03:41Z",
+  "generatedAt": "2026-09-20T03:19:51Z",
   "sources": [
     {
       "name": "新智元",
@@ -20,6 +20,66 @@
   "items": [
     {
       "source": "量子位",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "url": "https://www.qbitai.com/2026/09/492755.html",
+      "publishedAt": "2026-09-19T11:53:12Z"
+    },
+    {
+      "source": "量子位",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "url": "https://www.qbitai.com/2026/09/492661.html",
+      "publishedAt": "2026-09-19T11:48:06Z"
+    },
+    {
+      "source": "量子位",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "url": "https://www.qbitai.com/2026/09/492573.html",
+      "publishedAt": "2026-09-19T11:43:12Z"
+    },
+    {
+      "source": "量子位",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "url": "https://www.qbitai.com/2026/09/492550.html",
+      "publishedAt": "2026-09-19T11:36:11Z"
+    },
+    {
+      "source": "量子位",
+      "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+      "url": "https://www.qbitai.com/2026/09/492501.html",
+      "publishedAt": "2026-09-19T08:34:35Z"
+    },
+    {
+      "source": "量子位",
+      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+      "url": "https://www.qbitai.com/2026/09/492476.html",
+      "publishedAt": "2026-09-19T08:28:51Z"
+    },
+    {
+      "source": "量子位",
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "url": "https://www.qbitai.com/2026/09/492467.html",
+      "publishedAt": "2026-09-19T06:44:02Z"
+    },
+    {
+      "source": "量子位",
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+      "url": "https://www.qbitai.com/2026/09/492429.html",
+      "publishedAt": "2026-09-19T06:39:32Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "鸿蒙7发布后，手机里的App进入智能体时代了",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651058555&idx=1&sn=7607ebea718c9fa42624ed4b21622a4b",
+      "publishedAt": "2026-09-19T05:50:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "Astra两周抢走13%份额，Anthropic或提前发新模型",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651058555&idx=2&sn=c26cc08b9e7a470e7ccb3ebb828b67ce",
+      "publishedAt": "2026-09-19T05:50:00Z"
+    },
+    {
+      "source": "量子位",
       "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
       "url": "https://www.qbitai.com/2026/09/492426.html",
       "publishedAt": "2026-09-18T15:58:21Z"
@@ -29,18 +89,6 @@
       "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
       "url": "https://www.qbitai.com/2026/09/492421.html",
       "publishedAt": "2026-09-18T15:50:20Z"
-    },
-    {
-      "source": "量子位",
-      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-      "url": "https://www.qbitai.com/2026/09/492238.html",
-      "publishedAt": "2026-09-18T13:16:33Z"
-    },
-    {
-      "source": "量子位",
-      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-      "url": "https://www.qbitai.com/2026/09/492175.html",
-      "publishedAt": "2026-09-18T12:22:47Z"
     },
     {
       "source": "机器之心",
@@ -59,42 +107,6 @@
       "title": "火山引擎×AMD助力砹脉营销（A.M.A）以Seedance重塑汽车营销新范式",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651058476&idx=3&sn=6e51d9c00b95e967a0bcda3f9100cdeb",
       "publishedAt": "2026-09-18T09:30:00Z"
-    },
-    {
-      "source": "量子位",
-      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-      "url": "https://www.qbitai.com/2026/09/492015.html",
-      "publishedAt": "2026-09-18T09:19:37Z"
-    },
-    {
-      "source": "量子位",
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "url": "https://www.qbitai.com/2026/09/491875.html",
-      "publishedAt": "2026-09-18T06:11:06Z"
-    },
-    {
-      "source": "量子位",
-      "title": "Manus重生第17天，估值居然就翻倍了",
-      "url": "https://www.qbitai.com/2026/09/491764.html",
-      "publishedAt": "2026-09-18T00:37:13Z"
-    },
-    {
-      "source": "量子位",
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "url": "https://www.qbitai.com/2026/09/491711.html",
-      "publishedAt": "2026-09-18T00:34:34Z"
-    },
-    {
-      "source": "量子位",
-      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-      "url": "https://www.qbitai.com/2026/09/491649.html",
-      "publishedAt": "2026-09-17T12:03:24Z"
-    },
-    {
-      "source": "量子位",
-      "title": "Claude Code团队讲究啊，这都往外说",
-      "url": "https://www.qbitai.com/2026/09/491596.html",
-      "publishedAt": "2026-09-17T11:56:13Z"
     },
     {
       "source": "机器之心",
@@ -185,18 +197,6 @@
       "title": "在多项高难度Benchmark超越GPT-6 Astra，RSIAgent让开源模型自主探索新环境",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057178&idx=1&sn=3ee4d896a3d3ed5a39c7773752d61d30",
       "publishedAt": "2026-09-15T04:34:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "全奖读AI！人工智能排名前十的MBZUAI本硕博招生启动",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057178&idx=2&sn=e69916867dd74b9a1c0609176b8d4107",
-      "publishedAt": "2026-09-15T04:34:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "让企业拥有自己的模型！PyTRIO定义TaaS新范式：大模型训练进入API时代",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651056978&idx=1&sn=3f375ee86e8f98ec325bdb7c84fdf2b9",
-      "publishedAt": "2026-09-14T04:03:00Z"
     }
   ]
 }
