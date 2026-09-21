@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T03:19:51Z",
+  "generatedAt": "2026-09-21T03:15:05Z",
   "sources": [
     {
       "name": "新智元",
@@ -20,6 +20,60 @@
   "items": [
     {
       "source": "量子位",
+      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
+      "url": "https://www.qbitai.com/2026/09/492973.html",
+      "publishedAt": "2026-09-20T14:30:26Z"
+    },
+    {
+      "source": "量子位",
+      "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
+      "url": "https://www.qbitai.com/2026/09/493068.html",
+      "publishedAt": "2026-09-20T14:23:52Z"
+    },
+    {
+      "source": "量子位",
+      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
+      "url": "https://www.qbitai.com/2026/09/492946.html",
+      "publishedAt": "2026-09-20T12:22:41Z"
+    },
+    {
+      "source": "量子位",
+      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
+      "url": "https://www.qbitai.com/2026/09/492939.html",
+      "publishedAt": "2026-09-20T08:30:32Z"
+    },
+    {
+      "source": "量子位",
+      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+      "url": "https://www.qbitai.com/2026/09/492912.html",
+      "publishedAt": "2026-09-20T08:01:13Z"
+    },
+    {
+      "source": "量子位",
+      "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
+      "url": "https://www.qbitai.com/2026/09/492873.html",
+      "publishedAt": "2026-09-20T07:51:09Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "把「因果思维链」焊进世界模型，它凭什么登顶？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651058614&idx=1&sn=927617ba7a8d204ac2a7f67944ed60c6",
+      "publishedAt": "2026-09-20T04:27:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "机器人领域的OpenAI，竟然是OpenAI自己？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651058614&idx=2&sn=933b7f30fb9bd39899edb2eb0c4b493a",
+      "publishedAt": "2026-09-20T04:27:00Z"
+    },
+    {
+      "source": "量子位",
+      "title": "《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上",
+      "url": "https://www.qbitai.com/2026/09/492849.html",
+      "publishedAt": "2026-09-20T02:48:18Z"
+    },
+    {
+      "source": "量子位",
       "title": "“留给人类阻止AI的时间不多了”",
       "url": "https://www.qbitai.com/2026/09/492755.html",
       "publishedAt": "2026-09-19T11:53:12Z"
@@ -37,36 +91,6 @@
       "publishedAt": "2026-09-19T11:43:12Z"
     },
     {
-      "source": "量子位",
-      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
-      "url": "https://www.qbitai.com/2026/09/492550.html",
-      "publishedAt": "2026-09-19T11:36:11Z"
-    },
-    {
-      "source": "量子位",
-      "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
-      "url": "https://www.qbitai.com/2026/09/492501.html",
-      "publishedAt": "2026-09-19T08:34:35Z"
-    },
-    {
-      "source": "量子位",
-      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
-      "url": "https://www.qbitai.com/2026/09/492476.html",
-      "publishedAt": "2026-09-19T08:28:51Z"
-    },
-    {
-      "source": "量子位",
-      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
-      "url": "https://www.qbitai.com/2026/09/492467.html",
-      "publishedAt": "2026-09-19T06:44:02Z"
-    },
-    {
-      "source": "量子位",
-      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
-      "url": "https://www.qbitai.com/2026/09/492429.html",
-      "publishedAt": "2026-09-19T06:39:32Z"
-    },
-    {
       "source": "机器之心",
       "title": "鸿蒙7发布后，手机里的App进入智能体时代了",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651058555&idx=1&sn=7607ebea718c9fa42624ed4b21622a4b",
@@ -77,18 +101,6 @@
       "title": "Astra两周抢走13%份额，Anthropic或提前发新模型",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651058555&idx=2&sn=c26cc08b9e7a470e7ccb3ebb828b67ce",
       "publishedAt": "2026-09-19T05:50:00Z"
-    },
-    {
-      "source": "量子位",
-      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
-      "url": "https://www.qbitai.com/2026/09/492426.html",
-      "publishedAt": "2026-09-18T15:58:21Z"
-    },
-    {
-      "source": "量子位",
-      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
-      "url": "https://www.qbitai.com/2026/09/492421.html",
-      "publishedAt": "2026-09-18T15:50:20Z"
     },
     {
       "source": "机器之心",
@@ -185,18 +197,6 @@
       "title": "本地该怎么做RSI？我们与StartLux CTO聊了聊",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057510&idx=1&sn=fe3bfc52fa67e6e43f869228e202f996",
       "publishedAt": "2026-09-16T04:00:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "复杂的Harness Evolution，甚至不如多跑几遍",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057510&idx=2&sn=8e1bea2b097f6ec4c012b75cf0ccfacb",
-      "publishedAt": "2026-09-16T04:00:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "在多项高难度Benchmark超越GPT-6 Astra，RSIAgent让开源模型自主探索新环境",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651057178&idx=1&sn=3ee4d896a3d3ed5a39c7773752d61d30",
-      "publishedAt": "2026-09-15T04:34:00Z"
     }
   ]
 }
