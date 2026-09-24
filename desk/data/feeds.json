@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T03:14:45Z",
+  "generatedAt": "2026-09-24T03:04:45Z",
   "sources": [
     {
       "name": "新智元",
@@ -20,9 +20,93 @@
   "items": [
     {
       "source": "量子位",
-      "title": "华为全新智驾上车，全域L3架构，岚图最强旗舰MPV 42万开卖",
-      "url": "https://www.qbitai.com/2026/09/495959.html",
-      "publishedAt": "2026-09-23T01:00:54Z"
+      "title": "成立九年，中科类脑把积累装进Token工厂",
+      "url": "https://www.qbitai.com/2026/09/496615.html",
+      "publishedAt": "2026-09-24T00:48:02Z"
+    },
+    {
+      "source": "新智元",
+      "title": "19个AI血战《星际争霸》！GPT-6全胜，照样打不过人类新手",
+      "url": "https://aiera.com.cn/2026/09/24/other/admin/115274/19%e4%b8%aaai%e8%a1%80%e6%88%98%e3%80%8a%e6%98%9f%e9%99%85%e4%ba%89%e9%9c%b8%e3%80%8b%ef%bc%81gpt-6%e5%85%a8%e8%83%9c%ef%bc%8c%e7%85%a7%e6%a0%b7%e6%89%93%e4%b8%8d%e8%bf%87%e4%ba%ba%e7%b1%bb%e6%96%b0/",
+      "publishedAt": "2026-09-24T00:21:27Z"
+    },
+    {
+      "source": "新智元",
+      "title": "Meta刚登顶，千问就交卷！3亿人的个人AI助理要来了",
+      "url": "https://aiera.com.cn/2026/09/24/other/admin/115258/meta%e5%88%9a%e7%99%bb%e9%a1%b6%ef%bc%8c%e5%8d%83%e9%97%ae%e5%b0%b1%e4%ba%a4%e5%8d%b7%ef%bc%813%e4%ba%bf%e4%ba%ba%e7%9a%84%e4%b8%aa%e4%ba%baai%e5%8a%a9%e7%90%86%e8%a6%81%e6%9d%a5%e4%ba%86/",
+      "publishedAt": "2026-09-24T00:17:07Z"
+    },
+    {
+      "source": "新智元",
+      "title": "罗福莉带小米登顶全球开源榜首！大规模RL立功，斩杀Grok 4.7",
+      "url": "https://aiera.com.cn/2026/09/24/other/admin/115245/%e7%bd%97%e7%a6%8f%e8%8e%89%e5%b8%a6%e5%b0%8f%e7%b1%b3%e7%99%bb%e9%a1%b6%e5%85%a8%e7%90%83%e5%bc%80%e6%ba%90%e6%a6%9c%e9%a6%96%ef%bc%81%e5%a4%a7%e8%a7%84%e6%a8%a1rl%e7%ab%8b%e5%8a%9f%ef%bc%8c%e6%96%a9/",
+      "publishedAt": "2026-09-24T00:15:53Z"
+    },
+    {
+      "source": "新智元",
+      "title": "Claude Opus 5.5深夜发布，减价40%！大语言模型正式开始吞噬多模态",
+      "url": "https://aiera.com.cn/2026/09/24/other/admin/115222/claude-opus-5-5%e6%b7%b1%e5%a4%9c%e5%8f%91%e5%b8%83%ef%bc%8c%e5%87%8f%e4%bb%b740%ef%bc%81%e5%a4%a7%e8%af%ad%e8%a8%80%e6%a8%a1%e5%9e%8b%e6%ad%a3%e5%bc%8f%e5%bc%80%e5%a7%8b%e5%90%9e%e5%99%ac%e5%a4%9a/",
+      "publishedAt": "2026-09-24T00:13:06Z"
+    },
+    {
+      "source": "新智元",
+      "title": "「一人剧组」杀疯了！LibTV 1.5，一下午拍完一集爆款AI漫剧",
+      "url": "https://aiera.com.cn/2026/09/24/other/admin/115197/%e3%80%8c%e4%b8%80%e4%ba%ba%e5%89%a7%e7%bb%84%e3%80%8d%e6%9d%80%e7%96%af%e4%ba%86%ef%bc%81libtv-1-5%ef%bc%8c%e4%b8%80%e4%b8%8b%e5%8d%88%e6%8b%8d%e5%ae%8c%e4%b8%80%e9%9b%86%e7%88%86%e6%ac%beai%e6%bc%ab/",
+      "publishedAt": "2026-09-24T00:06:15Z"
+    },
+    {
+      "source": "量子位",
+      "title": "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+      "url": "https://www.qbitai.com/2026/09/496609.html",
+      "publishedAt": "2026-09-23T10:35:16Z"
+    },
+    {
+      "source": "量子位",
+      "title": "让Token生产更高效：异构混推的关键技术演进与创新实践",
+      "url": "https://www.qbitai.com/2026/09/496578.html",
+      "publishedAt": "2026-09-23T09:56:53Z"
+    },
+    {
+      "source": "量子位",
+      "title": "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”",
+      "url": "https://www.qbitai.com/2026/09/496493.html",
+      "publishedAt": "2026-09-23T09:50:26Z"
+    },
+    {
+      "source": "量子位",
+      "title": "达卯科技完成新一轮融资，算电协同核心软件层“稀缺标的”",
+      "url": "https://www.qbitai.com/2026/09/496494.html",
+      "publishedAt": "2026-09-23T09:46:57Z"
+    },
+    {
+      "source": "量子位",
+      "title": "它石智航顶尖团队引领中国具身智能率先迈入规模化落地阶段",
+      "url": "https://www.qbitai.com/2026/09/496481.html",
+      "publishedAt": "2026-09-23T08:54:04Z"
+    },
+    {
+      "source": "量子位",
+      "title": "斑马智能发布端模型AutoOmni2.0，让元神AI更懂“我的世界”",
+      "url": "https://www.qbitai.com/2026/09/496471.html",
+      "publishedAt": "2026-09-23T08:45:22Z"
+    },
+    {
+      "source": "量子位",
+      "title": "DeepSeek新论文公开Agent训练！梁文锋署名",
+      "url": "https://www.qbitai.com/2026/09/496393.html",
+      "publishedAt": "2026-09-23T07:29:50Z"
+    },
+    {
+      "source": "量子位",
+      "title": "Qwen一号位定了！刘大一恒接棒",
+      "url": "https://www.qbitai.com/2026/09/496384.html",
+      "publishedAt": "2026-09-23T07:27:49Z"
+    },
+    {
+      "source": "量子位",
+      "title": "Jev vs Decitron：同为决策AI，为什么不是一回事？",
+      "url": "https://www.qbitai.com/2026/09/496352.html",
+      "publishedAt": "2026-09-23T06:38:07Z"
     },
     {
       "source": "新智元",
@@ -55,84 +139,6 @@
       "publishedAt": "2026-09-23T00:02:22Z"
     },
     {
-      "source": "新智元",
-      "title": "OpenAI内部曝光：AI开始自己造AI！奥特曼急发全球暂停令",
-      "url": "https://aiera.com.cn/2026/09/23/other/admin/115056/openai%e5%86%85%e9%83%a8%e6%9b%9d%e5%85%89%ef%bc%9aai%e5%bc%80%e5%a7%8b%e8%87%aa%e5%b7%b1%e9%80%a0ai%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%80%a5%e5%8f%91%e5%85%a8%e7%90%83%e6%9a%82%e5%81%9c%e4%bb%a4/",
-      "publishedAt": "2026-09-23T00:01:29Z"
-    },
-    {
-      "source": "新智元",
-      "title": "北京第一，杭州深圳进入前三！中国AI行业大洗牌了",
-      "url": "https://aiera.com.cn/2026/09/23/other/admin/115038/%e5%8c%97%e4%ba%ac%e7%ac%ac%e4%b8%80%ef%bc%8c%e6%9d%ad%e5%b7%9e%e6%b7%b1%e5%9c%b3%e8%bf%9b%e5%85%a5%e5%89%8d%e4%b8%89%ef%bc%81%e4%b8%ad%e5%9b%bdai%e8%a1%8c%e4%b8%9a%e5%a4%a7%e6%b4%97%e7%89%8c%e4%ba%86/",
-      "publishedAt": "2026-09-23T00:00:56Z"
-    },
-    {
-      "source": "新智元",
-      "title": "ChatGPT版Grok Bot代码曝光！OpenAI也要为你造不下班的AI同事",
-      "url": "https://aiera.com.cn/2026/09/23/other/admin/115014/chatgpt%e7%89%88grok-bot%e4%bb%a3%e7%a0%81%e6%9b%9d%e5%85%89%ef%bc%81openai%e4%b9%9f%e8%a6%81%e4%b8%ba%e4%bd%a0%e9%80%a0%e4%b8%8d%e4%b8%8b%e7%8f%ad%e7%9a%84ai%e5%90%8c%e4%ba%8b/",
-      "publishedAt": "2026-09-23T00:00:17Z"
-    },
-    {
-      "source": "量子位",
-      "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
-      "url": "https://www.qbitai.com/2026/09/494429.html",
-      "publishedAt": "2026-09-22T15:59:35Z"
-    },
-    {
-      "source": "量子位",
-      "title": "Agent时代，CPU的价值该重估了",
-      "url": "https://www.qbitai.com/2026/09/494430.html",
-      "publishedAt": "2026-09-22T15:46:54Z"
-    },
-    {
-      "source": "量子位",
-      "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
-      "url": "https://www.qbitai.com/2026/09/494420.html",
-      "publishedAt": "2026-09-22T14:28:59Z"
-    },
-    {
-      "source": "量子位",
-      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
-      "url": "https://www.qbitai.com/2026/09/494263.html",
-      "publishedAt": "2026-09-22T13:57:10Z"
-    },
-    {
-      "source": "量子位",
-      "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
-      "url": "https://www.qbitai.com/2026/09/493653.html",
-      "publishedAt": "2026-09-22T11:58:53Z"
-    },
-    {
-      "source": "量子位",
-      "title": "6天烧光2000多万，拿下开源第一！小米史无前例「炼丹直播」收官",
-      "url": "https://www.qbitai.com/2026/09/494179.html",
-      "publishedAt": "2026-09-22T11:50:28Z"
-    },
-    {
-      "source": "新智元",
-      "title": "00后华人天才少女、Bengio高徒，从DeepMind转会OpenAI！",
-      "url": "https://aiera.com.cn/2026/09/22/other/admin/114999/00%e5%90%8e%e5%8d%8e%e4%ba%ba%e5%a4%a9%e6%89%8d%e5%b0%91%e5%a5%b3%e3%80%81bengio%e9%ab%98%e5%be%92%ef%bc%8c%e8%bd%ac%e4%bc%9aopenai%ef%bc%81/",
-      "publishedAt": "2026-09-22T11:34:44Z"
-    },
-    {
-      "source": "量子位",
-      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-      "url": "https://www.qbitai.com/2026/09/494120.html",
-      "publishedAt": "2026-09-22T10:06:34Z"
-    },
-    {
-      "source": "量子位",
-      "title": "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
-      "url": "https://www.qbitai.com/2026/09/494043.html",
-      "publishedAt": "2026-09-22T10:01:53Z"
-    },
-    {
-      "source": "量子位",
-      "title": "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建",
-      "url": "https://www.qbitai.com/2026/09/493865.html",
-      "publishedAt": "2026-09-22T08:49:12Z"
-    },
-    {
       "source": "机器之心",
       "title": "用GPT-6 Astra就能直接控制机器人？可具身真机没那么简单",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059152&idx=1&sn=81dd2274b1d881df85d42dd3c710d1d2",
@@ -143,12 +149,6 @@
       "title": "Agent版Hugging Face来了，openJiuwen发布首个开源智能体资产平台",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059152&idx=2&sn=749ad51193995789f64cdff1b4bbcd98",
       "publishedAt": "2026-09-22T04:30:00Z"
-    },
-    {
-      "source": "新智元",
-      "title": "刚刚，Opus 5.5跨级偷袭！直扑GPT-6",
-      "url": "https://aiera.com.cn/2026/09/22/other/admin/114989/%e5%88%9a%e5%88%9a%ef%bc%8copus-5-5%e8%b7%a8%e7%ba%a7%e5%81%b7%e8%a2%ad%ef%bc%81%e7%9b%b4%e6%89%91gpt-6/",
-      "publishedAt": "2026-09-22T00:29:31Z"
     },
     {
       "source": "机器之心",
