@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T03:58:32Z",
+  "generatedAt": "2026-10-06T04:47:46Z",
   "sources": [
     {
       "name": "新智元",
@@ -18,6 +18,36 @@
     }
   ],
   "items": [
+    {
+      "source": "量子位",
+      "title": "刚刚，诺贝尔奖颁给光遗传学！",
+      "url": "https://www.qbitai.com/2026/10/501720.html",
+      "publishedAt": "2026-10-05T10:37:01Z"
+    },
+    {
+      "source": "量子位",
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "publishedAt": "2026-10-05T04:42:52Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "入职才4个月，宋晓冬团队被曝与Meta分道扬镳，理由：工作风格不合",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061111&idx=1&sn=c47484991b1f2846b19161a84a5044d7",
+      "publishedAt": "2026-10-05T03:43:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "看懂不等于做对：VA-Bench测出大模型空间智能的执行断层",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061111&idx=2&sn=cad2d261764e3894f685585728ae08b6",
+      "publishedAt": "2026-10-05T03:43:00Z"
+    },
+    {
+      "source": "量子位",
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "url": "https://www.qbitai.com/2026/10/501700.html",
+      "publishedAt": "2026-10-05T02:50:46Z"
+    },
     {
       "source": "新智元",
       "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
@@ -79,6 +109,18 @@
       "publishedAt": "2026-10-04T06:05:35Z"
     },
     {
+      "source": "机器之心",
+      "title": "终于有人管管屎山代码了！Tibo预告，Astra 6.1要来了？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061081&idx=1&sn=85bbbe66a12a0ff58c3188c154546137",
+      "publishedAt": "2026-10-04T03:54:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "Agent Harness到底怎么选？南洋理工大学安波团队最新研究给出答案",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061081&idx=2&sn=cb11670b3a6aae956f8e44f4cdfa08e9",
+      "publishedAt": "2026-10-04T03:54:00Z"
+    },
+    {
       "source": "量子位",
       "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
       "url": "https://www.qbitai.com/2026/10/501451.html",
@@ -115,88 +157,46 @@
       "publishedAt": "2026-10-03T02:38:19Z"
     },
     {
+      "source": "机器之心",
+      "title": "Jev被请下王座，StartLux中国开源决策模型冲上第一",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060998&idx=1&sn=5e2496eb644e86fdf2d880a258074514",
+      "publishedAt": "2026-10-03T02:00:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "万分之一——大模型后训练中的极端稀疏监督",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060998&idx=2&sn=6e1b1eee268b769acca49b04819c6fd3",
+      "publishedAt": "2026-10-03T02:00:00Z"
+    },
+    {
       "source": "量子位",
       "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
       "url": "https://www.qbitai.com/2026/10/500098.html",
       "publishedAt": "2026-10-02T07:34:15Z"
     },
     {
-      "source": "量子位",
-      "title": "丘成桐新论文致谢了GPT和Claude",
-      "url": "https://www.qbitai.com/2026/10/499991.html",
-      "publishedAt": "2026-10-02T07:27:03Z"
-    },
-    {
-      "source": "量子位",
-      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-      "url": "https://www.qbitai.com/2026/10/499958.html",
-      "publishedAt": "2026-10-02T06:46:32Z"
-    },
-    {
-      "source": "量子位",
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "url": "https://www.qbitai.com/2026/10/499812.html",
-      "publishedAt": "2026-10-01T15:06:30Z"
+      "source": "机器之心",
+      "title": "比李飞飞World Labs早两年押注原生4D，影身智能这次是真走在前面了？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060898&idx=1&sn=dcd5a6cee64e86b4b40b03c9b9d3f675",
+      "publishedAt": "2026-10-02T05:30:00Z"
     },
     {
       "source": "机器之心",
-      "title": "LLM For Algorithm Design，华为联合团队斩获SAT 2026大赛AI赛道冠军",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060125&idx=1&sn=a38e546e1abd8fefef5ec42d4929deca",
-      "publishedAt": "2026-09-28T03:30:00Z"
+      "title": "LegoFlow：让智能体自主跑完代码数据构建+训练测评全流程",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060898&idx=2&sn=7c342e5f7de860d0e928dab50043d6b5",
+      "publishedAt": "2026-10-02T05:30:00Z"
     },
     {
       "source": "机器之心",
-      "title": "OpenAI全新订阅方案出炉！5x和20x套餐已删除",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060125&idx=2&sn=d972b4894e65e4cd7478e2e1c676341d",
-      "publishedAt": "2026-09-28T03:30:00Z"
+      "title": "OpenAI们被嫌死贵，美国大厂转向开源模型，中国成最大赢家",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060871&idx=1&sn=97c7644875a4ba12ac962fc49172e0cb",
+      "publishedAt": "2026-10-01T04:00:00Z"
     },
     {
       "source": "机器之心",
-      "title": "模型越来越强，企业AI为什么还卡在「最后一公里」？",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059866&idx=1&sn=0667d2dabd6da2203e35582fe4d7c5d9",
-      "publishedAt": "2026-09-27T03:04:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "OpenAI横扫100多道世界难题，他却说：数学才刚开始",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059866&idx=2&sn=017f51be630551f07bbe8fdf7d818eda",
-      "publishedAt": "2026-09-27T03:04:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "离谱！OpenAI智能体攻击Hugging Face时，竟想叫DeepSeek、Kimi和Qwen来帮忙",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059787&idx=1&sn=652433a570f3cd166060c61a07ed7128",
-      "publishedAt": "2026-09-26T03:11:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "AI代写论文露馅？顶刊主编一问，作者啥都答不上来",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059787&idx=2&sn=c92c11eacdfd5e86243db8af844bf862",
-      "publishedAt": "2026-09-26T03:11:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "从机器鸭乐高、宜家说明书到《塞尔达》，Opus 5.5正在重新定义vibe coding",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059729&idx=1&sn=1a034baaa05f079fb9665c6cfaef6f5b",
-      "publishedAt": "2026-09-25T09:17:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "Jev刷屏之后，竟然有人12个月前就提出了概率并行生成？",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059729&idx=2&sn=06e4002d14feae27e3bd282166d7742e",
-      "publishedAt": "2026-09-25T09:17:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "代码生成越来越快，软件交付真正的瓶颈转向了哪里？",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059607&idx=1&sn=e82d0c8ad4f6032a92ecc71508f95fe7",
-      "publishedAt": "2026-09-24T07:15:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "智能终端变成token工厂，这家公司要让AI真正被深度使用",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651059607&idx=2&sn=b6cb536301242f5ac3868e83e420ab9a",
-      "publishedAt": "2026-09-24T07:15:00Z"
+      "title": "首发！openJiuwen WorkSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060871&idx=2&sn=f8bdc8bd6f0ed7280678d85a54beb567",
+      "publishedAt": "2026-10-01T04:00:00Z"
     }
   ]
 }
