@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:13:47Z",
+  "generatedAt": "2026-10-08T04:26:06Z",
   "sources": [
     {
       "name": "新智元",
@@ -18,6 +18,66 @@
     }
   ],
   "items": [
+    {
+      "source": "量子位",
+      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "url": "https://www.qbitai.com/2026/10/501915.html",
+      "publishedAt": "2026-10-08T02:15:37Z"
+    },
+    {
+      "source": "量子位",
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "url": "https://www.qbitai.com/2026/10/501913.html",
+      "publishedAt": "2026-10-08T02:04:36Z"
+    },
+    {
+      "source": "量子位",
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "url": "https://www.qbitai.com/2026/10/501834.html",
+      "publishedAt": "2026-10-08T01:07:19Z"
+    },
+    {
+      "source": "量子位",
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "url": "https://www.qbitai.com/2026/10/501832.html",
+      "publishedAt": "2026-10-08T01:04:00Z"
+    },
+    {
+      "source": "量子位",
+      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+      "url": "https://www.qbitai.com/2026/10/501825.html",
+      "publishedAt": "2026-10-07T14:10:33Z"
+    },
+    {
+      "source": "量子位",
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "url": "https://www.qbitai.com/2026/10/501803.html",
+      "publishedAt": "2026-10-07T11:34:47Z"
+    },
+    {
+      "source": "量子位",
+      "title": "晕…这年头还有说人话的AI不",
+      "url": "https://www.qbitai.com/2026/10/501796.html",
+      "publishedAt": "2026-10-07T08:41:13Z"
+    },
+    {
+      "source": "量子位",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "url": "https://www.qbitai.com/2026/10/501791.html",
+      "publishedAt": "2026-10-07T06:39:36Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "突发！OpenAI一次放出722篇数学成果，准黎曼猜想、4D挂谷都在列",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061320&idx=1&sn=9ccf3204921b2620923ef26380fb3bb6",
+      "publishedAt": "2026-10-07T01:49:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061320&idx=2&sn=da665a8e02881b7e48eea58bf8431ec1",
+      "publishedAt": "2026-10-07T01:49:00Z"
+    },
     {
       "source": "量子位",
       "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
@@ -79,18 +139,6 @@
       "publishedAt": "2026-10-06T10:44:58Z"
     },
     {
-      "source": "量子位",
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
-      "url": "https://www.qbitai.com/2026/10/501736.html",
-      "publishedAt": "2026-10-06T07:59:17Z"
-    },
-    {
-      "source": "量子位",
-      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-      "url": "https://www.qbitai.com/2026/10/501726.html",
-      "publishedAt": "2026-10-06T06:45:40Z"
-    },
-    {
       "source": "机器之心",
       "title": "一家影视公司为什么能做出全球第二的视频模型？答案藏在「生产系统」里",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061195&idx=1&sn=fd895d3e2b61a55684270981b166bf2b",
@@ -115,18 +163,6 @@
       "publishedAt": "2026-10-06T00:09:27Z"
     },
     {
-      "source": "量子位",
-      "title": "刚刚，诺贝尔奖颁给光遗传学！",
-      "url": "https://www.qbitai.com/2026/10/501720.html",
-      "publishedAt": "2026-10-05T10:37:01Z"
-    },
-    {
-      "source": "量子位",
-      "title": "刚刚，Hinton发了首篇RSI论文",
-      "url": "https://www.qbitai.com/2026/10/501705.html",
-      "publishedAt": "2026-10-05T04:42:52Z"
-    },
-    {
       "source": "机器之心",
       "title": "入职才4个月，宋晓冬团队被曝与Meta分道扬镳，理由：工作风格不合",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061111&idx=1&sn=c47484991b1f2846b19161a84a5044d7",
@@ -137,24 +173,6 @@
       "title": "看懂不等于做对：VA-Bench测出大模型空间智能的执行断层",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061111&idx=2&sn=cad2d261764e3894f685585728ae08b6",
       "publishedAt": "2026-10-05T03:43:00Z"
-    },
-    {
-      "source": "量子位",
-      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-      "url": "https://www.qbitai.com/2026/10/501700.html",
-      "publishedAt": "2026-10-05T02:50:46Z"
-    },
-    {
-      "source": "量子位",
-      "title": "AI算力硬合作，马斯克还是更相信中国制造",
-      "url": "https://www.qbitai.com/2026/10/501605.html",
-      "publishedAt": "2026-10-04T06:12:22Z"
-    },
-    {
-      "source": "量子位",
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "url": "https://www.qbitai.com/2026/10/501506.html",
-      "publishedAt": "2026-10-04T06:05:35Z"
     },
     {
       "source": "机器之心",
@@ -169,12 +187,6 @@
       "publishedAt": "2026-10-04T03:54:00Z"
     },
     {
-      "source": "量子位",
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "url": "https://www.qbitai.com/2026/10/501451.html",
-      "publishedAt": "2026-10-04T00:53:29Z"
-    },
-    {
       "source": "机器之心",
       "title": "Jev被请下王座，StartLux中国开源决策模型冲上第一",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060998&idx=1&sn=5e2496eb644e86fdf2d880a258074514",
@@ -185,18 +197,6 @@
       "title": "万分之一——大模型后训练中的极端稀疏监督",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060998&idx=2&sn=6e1b1eee268b769acca49b04819c6fd3",
       "publishedAt": "2026-10-03T02:00:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "比李飞飞World Labs早两年押注原生4D，影身智能这次是真走在前面了？",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060898&idx=1&sn=dcd5a6cee64e86b4b40b03c9b9d3f675",
-      "publishedAt": "2026-10-02T05:30:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "LegoFlow：让智能体自主跑完代码数据构建+训练测评全流程",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651060898&idx=2&sn=7c342e5f7de860d0e928dab50043d6b5",
-      "publishedAt": "2026-10-02T05:30:00Z"
     }
   ]
 }
