@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T04:26:06Z",
+  "generatedAt": "2026-10-09T04:29:59Z",
   "sources": [
     {
       "name": "新智元",
@@ -20,51 +20,63 @@
   "items": [
     {
       "source": "量子位",
-      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
-      "url": "https://www.qbitai.com/2026/10/501915.html",
-      "publishedAt": "2026-10-08T02:15:37Z"
+      "title": "灵巧操作头号玩家：Sharpa把指尖「触觉」进化到全面「体感」",
+      "url": "https://www.qbitai.com/2026/10/502330.html",
+      "publishedAt": "2026-10-09T04:15:05Z"
     },
     {
       "source": "量子位",
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "url": "https://www.qbitai.com/2026/10/501913.html",
-      "publishedAt": "2026-10-08T02:04:36Z"
+      "title": "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+      "url": "https://www.qbitai.com/2026/10/502125.html",
+      "publishedAt": "2026-10-09T03:52:21Z"
     },
     {
       "source": "量子位",
-      "title": "GPT-6今起免费用！拒答变少，话变多了",
-      "url": "https://www.qbitai.com/2026/10/501834.html",
-      "publishedAt": "2026-10-08T01:07:19Z"
+      "title": "尊界深夜回应“刹车踏板断裂”，懂车帝再发声",
+      "url": "https://www.qbitai.com/2026/10/502114.html",
+      "publishedAt": "2026-10-09T02:51:10Z"
     },
     {
       "source": "量子位",
-      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
-      "url": "https://www.qbitai.com/2026/10/501832.html",
-      "publishedAt": "2026-10-08T01:04:00Z"
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "url": "https://www.qbitai.com/2026/10/502106.html",
+      "publishedAt": "2026-10-09T02:37:22Z"
     },
     {
       "source": "量子位",
-      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
-      "url": "https://www.qbitai.com/2026/10/501825.html",
-      "publishedAt": "2026-10-07T14:10:33Z"
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "url": "https://www.qbitai.com/2026/10/502096.html",
+      "publishedAt": "2026-10-09T02:03:48Z"
     },
     {
       "source": "量子位",
-      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-      "url": "https://www.qbitai.com/2026/10/501803.html",
-      "publishedAt": "2026-10-07T11:34:47Z"
+      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+      "url": "https://www.qbitai.com/2026/10/502089.html",
+      "publishedAt": "2026-10-09T00:35:57Z"
     },
     {
       "source": "量子位",
-      "title": "晕…这年头还有说人话的AI不",
-      "url": "https://www.qbitai.com/2026/10/501796.html",
-      "publishedAt": "2026-10-07T08:41:13Z"
+      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+      "url": "https://www.qbitai.com/2026/10/502083.html",
+      "publishedAt": "2026-10-09T00:16:56Z"
     },
     {
       "source": "量子位",
-      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-      "url": "https://www.qbitai.com/2026/10/501791.html",
-      "publishedAt": "2026-10-07T06:39:36Z"
+      "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+      "url": "https://www.qbitai.com/2026/10/502049.html",
+      "publishedAt": "2026-10-08T13:28:23Z"
+    },
+    {
+      "source": "量子位",
+      "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+      "url": "https://www.qbitai.com/2026/10/502035.html",
+      "publishedAt": "2026-10-08T12:43:31Z"
+    },
+    {
+      "source": "量子位",
+      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+      "url": "https://www.qbitai.com/2026/10/502020.html",
+      "publishedAt": "2026-10-08T10:23:53Z"
     },
     {
       "source": "机器之心",
@@ -77,12 +89,6 @@
       "title": "量化后画面闪烁？时序稳定的视频世界模型2-bit KV Cache压缩方案诞生",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651061320&idx=2&sn=da665a8e02881b7e48eea58bf8431ec1",
       "publishedAt": "2026-10-07T01:49:00Z"
-    },
-    {
-      "source": "量子位",
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "url": "https://www.qbitai.com/2026/10/501749.html",
-      "publishedAt": "2026-10-07T01:05:13Z"
     },
     {
       "source": "新智元",
@@ -131,12 +137,6 @@
       "title": "刚刚，诺贝尔物理奖爆冷！82岁狂人一人独揽，凿穿南极冰川",
       "url": "https://aiera.com.cn/2026/10/07/other/admin/117207/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%af%ba%e8%b4%9d%e5%b0%94%e7%89%a9%e7%90%86%e5%a5%96%e7%88%86%e5%86%b7%ef%bc%8182%e5%b2%81%e7%8b%82%e4%ba%ba%e4%b8%80%e4%ba%ba%e7%8b%ac%e6%8f%bd%ef%bc%8c%e5%87%bf%e7%a9%bf/",
       "publishedAt": "2026-10-07T00:01:36Z"
-    },
-    {
-      "source": "量子位",
-      "title": "刚刚，诺贝尔物理奖一人独揽！",
-      "url": "https://www.qbitai.com/2026/10/501746.html",
-      "publishedAt": "2026-10-06T10:44:58Z"
     },
     {
       "source": "机器之心",
