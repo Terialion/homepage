@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T03:04:01Z",
+  "generatedAt": "2026-10-17T02:56:29Z",
   "sources": [
     {
       "name": "新智元",
@@ -20,57 +20,81 @@
   "items": [
     {
       "source": "新智元",
-      "title": "刚刚，Claude彻底解禁第三方应用！",
-      "url": "https://aiera.com.cn/2026/10/16/other/admin/118936/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e5%bd%bb%e5%ba%95%e8%a7%a3%e7%a6%81%e7%ac%ac%e4%b8%89%e6%96%b9%e5%ba%94%e7%94%a8%ef%bc%81/",
-      "publishedAt": "2026-10-16T00:09:56Z"
+      "title": "刚刚，Opus 5.5极速版全面解禁！",
+      "url": "https://aiera.com.cn/2026/10/17/other/admin/119139/%e5%88%9a%e5%88%9a%ef%bc%8copus-5-5%e6%9e%81%e9%80%9f%e7%89%88%e5%85%a8%e9%9d%a2%e8%a7%a3%e7%a6%81%ef%bc%81/",
+      "publishedAt": "2026-10-17T00:04:00Z"
     },
     {
       "source": "新智元",
-      "title": "Claude Code桌面版暴改，一人指挥AI军团飙代码！",
-      "url": "https://aiera.com.cn/2026/10/16/other/admin/118926/claude-code%e6%a1%8c%e9%9d%a2%e7%89%88%e6%9a%b4%e6%94%b9%ef%bc%8c%e4%b8%80%e4%ba%ba%e6%8c%87%e6%8c%a5ai%e5%86%9b%e5%9b%a2%e9%a3%99%e4%bb%a3%e7%a0%81%ef%bc%81/",
-      "publishedAt": "2026-10-16T00:08:10Z"
+      "title": "突发！Fable 5.5现身Azure，硬刚谷歌新模型",
+      "url": "https://aiera.com.cn/2026/10/17/other/admin/119121/%e7%aa%81%e5%8f%91%ef%bc%81fable-5-5%e7%8e%b0%e8%ba%abazure%ef%bc%8c%e7%a1%ac%e5%88%9a%e8%b0%b7%e6%ad%8c%e6%96%b0%e6%a8%a1%e5%9e%8b/",
+      "publishedAt": "2026-10-17T00:03:34Z"
     },
     {
       "source": "新智元",
-      "title": "OpenAI揭秘万级Agent实测！狂飙36小时，狂吞1万亿Token",
-      "url": "https://aiera.com.cn/2026/10/16/other/admin/118908/openai%e6%8f%ad%e7%a7%98%e4%b8%87%e7%ba%a7agent%e5%ae%9e%e6%b5%8b%ef%bc%81%e7%8b%82%e9%a3%9936%e5%b0%8f%e6%97%b6%ef%bc%8c%e7%8b%82%e5%90%9e1%e4%b8%87%e4%ba%bftoken/",
-      "publishedAt": "2026-10-16T00:06:52Z"
+      "title": "16天！他用Opus 5.5把《小王子》做成3D游戏，书里的星球能逛了",
+      "url": "https://aiera.com.cn/2026/10/17/other/admin/119091/16%e5%a4%a9%ef%bc%81%e4%bb%96%e7%94%a8opus-5-5%e6%8a%8a%e3%80%8a%e5%b0%8f%e7%8e%8b%e5%ad%90%e3%80%8b%e5%81%9a%e6%88%903d%e6%b8%b8%e6%88%8f%ef%bc%8c%e4%b9%a6%e9%87%8c%e7%9a%84%e6%98%9f%e7%90%83/",
+      "publishedAt": "2026-10-17T00:03:00Z"
     },
     {
       "source": "新智元",
-      "title": "全球首款，中国造！8K AI空间相机来了，皮克斯抢先上手",
-      "url": "https://aiera.com.cn/2026/10/16/other/admin/118892/%e5%85%a8%e7%90%83%e9%a6%96%e6%ac%be%ef%bc%8c%e4%b8%ad%e5%9b%bd%e9%80%a0%ef%bc%818k-ai%e7%a9%ba%e9%97%b4%e7%9b%b8%e6%9c%ba%e6%9d%a5%e4%ba%86%ef%bc%8c%e7%9a%ae%e5%85%8b%e6%96%af%e6%8a%a2%e5%85%88/",
-      "publishedAt": "2026-10-16T00:06:15Z"
+      "title": "EMNLP’26 | 清华北邮联合警告：扩散式VLM的安全防线步步失守",
+      "url": "https://aiera.com.cn/2026/10/17/other/admin/119077/emnlp26-%e6%b8%85%e5%8d%8e%e5%8c%97%e9%82%ae%e8%81%94%e5%90%88%e8%ad%a6%e5%91%8a%ef%bc%9a%e6%89%a9%e6%95%a3%e5%bc%8fvlm%e7%9a%84%e5%ae%89%e5%85%a8%e9%98%b2%e7%ba%bf%e6%ad%a5%e6%ad%a5%e5%a4%b1/",
+      "publishedAt": "2026-10-17T00:02:38Z"
     },
     {
       "source": "新智元",
-      "title": "GPT-5.5退出ChatGPT！GPT-4o旧版API进入3个月下架倒计时",
-      "url": "https://aiera.com.cn/2026/10/16/other/admin/118867/gpt-5-5%e9%80%80%e5%87%bachatgpt%ef%bc%81gpt-4o%e6%97%a7%e7%89%88api%e8%bf%9b%e5%85%a53%e4%b8%aa%e6%9c%88%e4%b8%8b%e6%9e%b6%e5%80%92%e8%ae%a1%e6%97%b6/",
-      "publishedAt": "2026-10-16T00:04:01Z"
+      "title": "刚刚，Meta亮出美国最强开源权重模型！两台Mac Studio就能跑",
+      "url": "https://aiera.com.cn/2026/10/17/other/admin/119063/%e5%88%9a%e5%88%9a%ef%bc%8cmeta%e4%ba%ae%e5%87%ba%e7%be%8e%e5%9b%bd%e6%9c%80%e5%bc%ba%e5%bc%80%e6%ba%90%e6%9d%83%e9%87%8d%e6%a8%a1%e5%9e%8b%ef%bc%81%e4%b8%a4%e5%8f%b0mac-studio%e5%b0%b1%e8%83%bd/",
+      "publishedAt": "2026-10-17T00:02:15Z"
     },
     {
       "source": "新智元",
-      "title": "全球领先！千卡超节点算力巨无霸，成功点亮",
-      "url": "https://aiera.com.cn/2026/10/16/other/admin/118855/%e5%85%a8%e7%90%83%e9%a2%86%e5%85%88%ef%bc%81%e5%8d%83%e5%8d%a1%e8%b6%85%e8%8a%82%e7%82%b9%e7%ae%97%e5%8a%9b%e5%b7%a8%e6%97%a0%e9%9c%b8%ef%bc%8c%e6%88%90%e5%8a%9f%e7%82%b9%e4%ba%ae/",
-      "publishedAt": "2026-10-16T00:03:29Z"
+      "title": "硬刚OpenAI dots！这家中国公司狂卷Work Agent",
+      "url": "https://aiera.com.cn/2026/10/17/other/admin/119043/%e7%a1%ac%e5%88%9aopenai-dots%ef%bc%81%e8%bf%99%e5%ae%b6%e4%b8%ad%e5%9b%bd%e5%85%ac%e5%8f%b8%e7%8b%82%e5%8d%b7work-agent/",
+      "publishedAt": "2026-10-17T00:01:48Z"
     },
     {
       "source": "新智元",
-      "title": "小团队也能预训练！普罗2B：RTX5090训练成本不到5090美元",
-      "url": "https://aiera.com.cn/2026/10/16/other/admin/118846/%e5%b0%8f%e5%9b%a2%e9%98%9f%e4%b9%9f%e8%83%bd%e9%a2%84%e8%ae%ad%e7%bb%83%ef%bc%81%e6%99%ae%e7%bd%972b%ef%bc%9artx5090%e8%ae%ad%e7%bb%83%e6%88%90%e6%9c%ac%e4%b8%8d%e5%88%b05090%e7%be%8e%e5%85%83/",
-      "publishedAt": "2026-10-16T00:02:50Z"
+      "title": "OpenAI前大牛认错！误判AI近十年，90%神经元只干一件事",
+      "url": "https://aiera.com.cn/2026/10/17/other/admin/119010/openai%e5%89%8d%e5%a4%a7%e7%89%9b%e8%ae%a4%e9%94%99%ef%bc%81%e8%af%af%e5%88%a4ai%e8%bf%91%e5%8d%81%e5%b9%b4%ef%bc%8c90%e7%a5%9e%e7%bb%8f%e5%85%83%e5%8f%aa%e5%b9%b2%e4%b8%80%e4%bb%b6%e4%ba%8b/",
+      "publishedAt": "2026-10-17T00:01:16Z"
     },
     {
       "source": "新智元",
-      "title": "突发，Anthropic联创改口：RSI提前到2027！人类只剩6个月",
-      "url": "https://aiera.com.cn/2026/10/16/other/admin/118824/%e7%aa%81%e5%8f%91%ef%bc%8canthropic%e8%81%94%e5%88%9b%e6%94%b9%e5%8f%a3%ef%bc%9arsi%e6%8f%90%e5%89%8d%e5%88%b02027%ef%bc%81%e4%ba%ba%e7%b1%bb%e5%8f%aa%e5%89%a96%e4%b8%aa%e6%9c%88/",
-      "publishedAt": "2026-10-16T00:01:46Z"
+      "title": "OpenAI突袭Chrome！ChatGPT长出「双手」，自动打工了",
+      "url": "https://aiera.com.cn/2026/10/17/other/admin/118981/openai%e7%aa%81%e8%a2%adchrome%ef%bc%81chatgpt%e9%95%bf%e5%87%ba%e3%80%8c%e5%8f%8c%e6%89%8b%e3%80%8d%ef%bc%8c%e8%87%aa%e5%8a%a8%e6%89%93%e5%b7%a5%e4%ba%86/",
+      "publishedAt": "2026-10-17T00:00:44Z"
     },
     {
       "source": "新智元",
-      "title": "中国AI视频TOP3开卷！1秒不到1毛钱，3D漫质感拉满",
-      "url": "https://aiera.com.cn/2026/10/16/other/admin/118804/%e4%b8%ad%e5%9b%bdai%e8%a7%86%e9%a2%91top3%e5%bc%80%e5%8d%b7%ef%bc%811%e7%a7%92%e4%b8%8d%e5%88%b01%e6%af%9b%e9%92%b1%ef%bc%8c3d%e6%bc%ab%e8%b4%a8%e6%84%9f%e6%8b%89%e6%bb%a1/",
-      "publishedAt": "2026-10-16T00:01:05Z"
+      "title": "断层领先Jev，全球第一！决策模型新王震撼发布新版本",
+      "url": "https://aiera.com.cn/2026/10/17/other/admin/118965/%e6%96%ad%e5%b1%82%e9%a2%86%e5%85%88jev%ef%bc%8c%e5%85%a8%e7%90%83%e7%ac%ac%e4%b8%80%ef%bc%81%e5%86%b3%e7%ad%96%e6%a8%a1%e5%9e%8b%e6%96%b0%e7%8e%8b%e9%9c%87%e6%92%bc%e5%8f%91%e5%b8%83%e6%96%b0/",
+      "publishedAt": "2026-10-17T00:00:15Z"
+    },
+    {
+      "source": "新智元",
+      "title": "2026 AI Cloud 100 China榜单发布：一目科技代表Physical AI赛道入选",
+      "url": "https://aiera.com.cn/2026/10/16/other/admin/118947/2026-ai-cloud-100-china%e6%a6%9c%e5%8d%95%e5%8f%91%e5%b8%83%ef%bc%9a%e4%b8%80%e7%9b%ae%e7%a7%91%e6%8a%80%e4%bb%a3%e8%a1%a8physical-ai%e8%b5%9b%e9%81%93%e5%85%a5%e9%80%89/",
+      "publishedAt": "2026-10-16T09:49:09Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "卡加了，吞吐为何没跟上？大模型推理中的等待，有了新解法",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063125&idx=1&sn=f5030e5f29a40a6c8d742d2485efcb5b",
+      "publishedAt": "2026-10-16T03:23:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "算力、算法、数据之外：这家南大系公司，押注智能增长的第四要素",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063125&idx=2&sn=4de0bf62f1f1a4e67105ef9d663dced8",
+      "publishedAt": "2026-10-16T03:23:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "Agent推理快10倍是怎么做到的？苹果×CMU：把「生成」改成「做选择题」",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063125&idx=3&sn=ea4caa15e65862454b786586bfcce177",
+      "publishedAt": "2026-10-16T03:23:00Z"
     },
     {
       "source": "量子位",
@@ -151,12 +175,6 @@
       "publishedAt": "2026-10-15T04:17:00Z"
     },
     {
-      "source": "新智元",
-      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点",
-      "url": "https://aiera.com.cn/2026/10/15/other/admin/118781/%e6%8a%a2%e5%85%88%e7%9b%98%e7%82%b92026%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e5%85%88%e9%94%8b%e5%a4%a7%e4%bc%9a%e6%9a%a8%e5%9b%bd%e9%99%85%e5%85%b7%e8%ba%ab%e6%99%ba%e8%83%bd%e6%8a%80/",
-      "publishedAt": "2026-10-15T00:48:10Z"
-    },
-    {
       "source": "机器之心",
       "title": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062756&idx=1&sn=fa2d7404984d41c4d2e1e61c8caa24af",
@@ -179,24 +197,6 @@
       "title": "九章云极问鼎陶哲轩数学挑战赛！让强化学习成为AI4S新基建",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062445&idx=1&sn=608c7ccba2cb0bcd1a34da07084d6cd1",
       "publishedAt": "2026-10-13T04:00:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "申报倒计时7天！2026云程奖，要给「在校AI本硕博」发奖学金",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062445&idx=2&sn=09d3ae148779c3bd1a544b44f72c02ea",
-      "publishedAt": "2026-10-13T04:00:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "生成的世界也能交互！牛津大学&莫纳什大学&布里斯托大学等团队提出交互式视频世界模型Oneira",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062445&idx=3&sn=c93fe78ae034dea794c3760e35192930",
-      "publishedAt": "2026-10-13T04:00:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "从预测万物到自我进化：PhAI Labs提出RSI-Anything，探索通用RSI新路径",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062250&idx=1&sn=01ec89d0007a47eba2bc2918aab03ecf",
-      "publishedAt": "2026-10-12T04:30:00Z"
     }
   ]
 }
