@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T02:56:29Z",
+  "generatedAt": "2026-10-18T02:57:48Z",
   "sources": [
     {
       "name": "新智元",
@@ -18,6 +18,24 @@
     }
   ],
   "items": [
+    {
+      "source": "机器之心",
+      "title": "李飞飞看了要点赞：15分钟，一台相机，把真实世界搬进了AI",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063453&idx=1&sn=6cfe0625d6f43a0a07e6aaa09172f42c",
+      "publishedAt": "2026-10-17T04:41:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063453&idx=2&sn=47364ac1026540b67b675fa686d100a0",
+      "publishedAt": "2026-10-17T04:41:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "给多模态大模型选「眼睛」，两个简单改进让评测相关性接近翻倍",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063453&idx=3&sn=6a2fa8d5b0af63412b2da5c4e4c222be",
+      "publishedAt": "2026-10-17T04:41:00Z"
+    },
     {
       "source": "新智元",
       "title": "刚刚，Opus 5.5极速版全面解禁！",
@@ -73,10 +91,70 @@
       "publishedAt": "2026-10-17T00:00:15Z"
     },
     {
+      "source": "量子位",
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "url": "https://www.qbitai.com/2026/10/503880.html",
+      "publishedAt": "2026-10-16T12:54:54Z"
+    },
+    {
       "source": "新智元",
       "title": "2026 AI Cloud 100 China榜单发布：一目科技代表Physical AI赛道入选",
       "url": "https://aiera.com.cn/2026/10/16/other/admin/118947/2026-ai-cloud-100-china%e6%a6%9c%e5%8d%95%e5%8f%91%e5%b8%83%ef%bc%9a%e4%b8%80%e7%9b%ae%e7%a7%91%e6%8a%80%e4%bb%a3%e8%a1%a8physical-ai%e8%b5%9b%e9%81%93%e5%85%a5%e9%80%89/",
       "publishedAt": "2026-10-16T09:49:09Z"
+    },
+    {
+      "source": "量子位",
+      "title": "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+      "url": "https://www.qbitai.com/2026/10/503865.html",
+      "publishedAt": "2026-10-16T08:12:01Z"
+    },
+    {
+      "source": "量子位",
+      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+      "url": "https://www.qbitai.com/2026/10/503861.html",
+      "publishedAt": "2026-10-16T08:07:33Z"
+    },
+    {
+      "source": "量子位",
+      "title": "霸榜三大基准！优必选 Thinker-WM：多模态统一表征，单模型实现六大能力",
+      "url": "https://www.qbitai.com/2026/10/503843.html",
+      "publishedAt": "2026-10-16T08:00:31Z"
+    },
+    {
+      "source": "量子位",
+      "title": "范式智能联合睿思智联推出开源一站式 生产级 AI 部署平台 “模域ModelSphere”",
+      "url": "https://www.qbitai.com/2026/10/503829.html",
+      "publishedAt": "2026-10-16T07:16:11Z"
+    },
+    {
+      "source": "量子位",
+      "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
+      "url": "https://www.qbitai.com/2026/10/503815.html",
+      "publishedAt": "2026-10-16T07:01:31Z"
+    },
+    {
+      "source": "量子位",
+      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
+      "url": "https://www.qbitai.com/2026/10/503782.html",
+      "publishedAt": "2026-10-16T06:17:53Z"
+    },
+    {
+      "source": "量子位",
+      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
+      "url": "https://www.qbitai.com/2026/10/503779.html",
+      "publishedAt": "2026-10-16T06:07:41Z"
+    },
+    {
+      "source": "量子位",
+      "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
+      "url": "https://www.qbitai.com/2026/10/503756.html",
+      "publishedAt": "2026-10-16T05:47:01Z"
+    },
+    {
+      "source": "量子位",
+      "title": "刚刚，Gemini 4终于来了：谷歌重回御三家，API限时半价",
+      "url": "https://www.qbitai.com/2026/10/503701.html",
+      "publishedAt": "2026-10-16T05:04:59Z"
     },
     {
       "source": "机器之心",
@@ -95,66 +173,6 @@
       "title": "Agent推理快10倍是怎么做到的？苹果×CMU：把「生成」改成「做选择题」",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651063125&idx=3&sn=ea4caa15e65862454b786586bfcce177",
       "publishedAt": "2026-10-16T03:23:00Z"
-    },
-    {
-      "source": "量子位",
-      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-      "url": "https://www.qbitai.com/2026/10/503645.html",
-      "publishedAt": "2026-10-15T10:07:08Z"
-    },
-    {
-      "source": "量子位",
-      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-      "url": "https://www.qbitai.com/2026/10/503640.html",
-      "publishedAt": "2026-10-15T09:43:29Z"
-    },
-    {
-      "source": "量子位",
-      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-      "url": "https://www.qbitai.com/2026/10/503614.html",
-      "publishedAt": "2026-10-15T08:48:31Z"
-    },
-    {
-      "source": "量子位",
-      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-      "url": "https://www.qbitai.com/2026/10/503611.html",
-      "publishedAt": "2026-10-15T08:16:19Z"
-    },
-    {
-      "source": "量子位",
-      "title": "这个双十一，百灵新模型干起活来不烧心",
-      "url": "https://www.qbitai.com/2026/10/503532.html",
-      "publishedAt": "2026-10-15T07:35:24Z"
-    },
-    {
-      "source": "量子位",
-      "title": "AI时代，商学院这样培养未来商业领袖",
-      "url": "https://www.qbitai.com/2026/10/503504.html",
-      "publishedAt": "2026-10-15T07:22:34Z"
-    },
-    {
-      "source": "量子位",
-      "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
-      "url": "https://www.qbitai.com/2026/10/503501.html",
-      "publishedAt": "2026-10-15T06:59:37Z"
-    },
-    {
-      "source": "量子位",
-      "title": "苹果AI国内上线，阿里百度浮出水面",
-      "url": "https://www.qbitai.com/2026/10/503497.html",
-      "publishedAt": "2026-10-15T06:52:45Z"
-    },
-    {
-      "source": "量子位",
-      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
-      "url": "https://www.qbitai.com/2026/10/503446.html",
-      "publishedAt": "2026-10-15T06:35:46Z"
-    },
-    {
-      "source": "量子位",
-      "title": "刚刚，苹果正式迈入5万亿美元时代",
-      "url": "https://www.qbitai.com/2026/10/503434.html",
-      "publishedAt": "2026-10-15T05:36:16Z"
     },
     {
       "source": "机器之心",
@@ -179,24 +197,6 @@
       "title": "Natura-1发布：从百万小时人类经验中学会零样本泛化与灵巧操作",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062756&idx=1&sn=fa2d7404984d41c4d2e1e61c8caa24af",
       "publishedAt": "2026-10-14T08:01:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "7个人、5个月！Anthropic造出了Git替代品",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062756&idx=2&sn=d303e463a1408dbefefecd7ebb10fe8f",
-      "publishedAt": "2026-10-14T08:01:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "苹果LensVLM：长上下文压缩成图片，模型边看边「放大」",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062756&idx=3&sn=7b77525c43945b4e5a775f0d78cb4cbd",
-      "publishedAt": "2026-10-14T08:01:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "九章云极问鼎陶哲轩数学挑战赛！让强化学习成为AI4S新基建",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651062445&idx=1&sn=608c7ccba2cb0bcd1a34da07084d6cd1",
-      "publishedAt": "2026-10-13T04:00:00Z"
     }
   ]
 }
