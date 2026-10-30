@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:18:43Z",
+  "generatedAt": "2026-10-30T04:18:50Z",
   "sources": [
     {
       "name": "新智元",
@@ -20,69 +20,141 @@
   "items": [
     {
       "source": "新智元",
+      "title": "《AnySearch Pro 正式上线，面向复杂 Agent 任务升级专业搜索能力》",
+      "url": "https://aiera.com.cn/2026/10/30/other/admin/121435/%e3%80%8aanysearch-pro-%e6%ad%a3%e5%bc%8f%e4%b8%8a%e7%ba%bf%ef%bc%8c%e9%9d%a2%e5%90%91%e5%a4%8d%e6%9d%82-agent-%e4%bb%bb%e5%8a%a1%e5%8d%87%e7%ba%a7%e4%b8%93%e4%b8%9a%e6%90%9c%e7%b4%a2%e8%83%bd/",
+      "publishedAt": "2026-10-30T01:51:00Z"
+    },
+    {
+      "source": "新智元",
+      "title": "刚刚，Gemini 4 Carbon发布，谷歌重回世界第一！",
+      "url": "https://aiera.com.cn/2026/10/30/other/admin/121433/%e5%88%9a%e5%88%9a%ef%bc%8cgemini-4-carbon%e5%8f%91%e5%b8%83%ef%bc%8c%e8%b0%b7%e6%ad%8c%e9%87%8d%e5%9b%9e%e4%b8%96%e7%95%8c%e7%ac%ac%e4%b8%80%ef%bc%81/",
+      "publishedAt": "2026-10-30T00:09:41Z"
+    },
+    {
+      "source": "新智元",
+      "title": "一块面包，就让全球机器人集体破防？幕后真相终于被这家黑马破解",
+      "url": "https://aiera.com.cn/2026/10/30/other/admin/121398/%e4%b8%80%e5%9d%97%e9%9d%a2%e5%8c%85%ef%bc%8c%e5%b0%b1%e8%ae%a9%e5%85%a8%e7%90%83%e6%9c%ba%e5%99%a8%e4%ba%ba%e9%9b%86%e4%bd%93%e7%a0%b4%e9%98%b2%ef%bc%9f%e5%b9%95%e5%90%8e%e7%9c%9f%e7%9b%b8%e7%bb%88/",
+      "publishedAt": "2026-10-30T00:07:52Z"
+    },
+    {
+      "source": "新智元",
+      "title": "AI不光得会说，还不能乱插嘴！Omni AI变革实时交互",
+      "url": "https://aiera.com.cn/2026/10/30/other/admin/121377/ai%e4%b8%8d%e5%85%89%e5%be%97%e4%bc%9a%e8%af%b4%ef%bc%8c%e8%bf%98%e4%b8%8d%e8%83%bd%e4%b9%b1%e6%8f%92%e5%98%b4%ef%bc%81omni-ai%e5%8f%98%e9%9d%a9%e5%ae%9e%e6%97%b6%e4%ba%a4%e4%ba%92/",
+      "publishedAt": "2026-10-30T00:06:43Z"
+    },
+    {
+      "source": "新智元",
+      "title": "最后一天赶紧蹬！Codex 200刀额度砍半，ChatGPT入口大更新",
+      "url": "https://aiera.com.cn/2026/10/30/other/admin/121366/%e6%9c%80%e5%90%8e%e4%b8%80%e5%a4%a9%e8%b5%b6%e7%b4%a7%e8%b9%ac%ef%bc%81codex-200%e5%88%80%e9%a2%9d%e5%ba%a6%e7%a0%8d%e5%8d%8a%ef%bc%8cchatgpt%e5%85%a5%e5%8f%a3%e5%a4%a7%e6%9b%b4%e6%96%b0/",
+      "publishedAt": "2026-10-30T00:05:38Z"
+    },
+    {
+      "source": "新智元",
+      "title": "刚刚，国产模型拿下三大榜单第一！年底全面开源",
+      "url": "https://aiera.com.cn/2026/10/30/other/admin/121345/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9b%bd%e4%ba%a7%e6%a8%a1%e5%9e%8b%e6%8b%bf%e4%b8%8b%e4%b8%89%e5%a4%a7%e6%a6%9c%e5%8d%95%e7%ac%ac%e4%b8%80%ef%bc%81%e5%b9%b4%e5%ba%95%e5%85%a8%e9%9d%a2%e5%bc%80%e6%ba%90/",
+      "publishedAt": "2026-10-30T00:04:22Z"
+    },
+    {
+      "source": "新智元",
+      "title": "AI王座，一夜两度易主！神秘模型Obsidian 3泄露",
+      "url": "https://aiera.com.cn/2026/10/30/other/admin/121317/ai%e7%8e%8b%e5%ba%a7%ef%bc%8c%e4%b8%80%e5%a4%9c%e4%b8%a4%e5%ba%a6%e6%98%93%e4%b8%bb%ef%bc%81%e7%a5%9e%e7%a7%98%e6%a8%a1%e5%9e%8bobsidian-3%e6%b3%84%e9%9c%b2/",
+      "publishedAt": "2026-10-30T00:02:46Z"
+    },
+    {
+      "source": "新智元",
+      "title": "GPT-8来了，AI公司要被一口吃掉？这家黑马给出另一种答案",
+      "url": "https://aiera.com.cn/2026/10/30/other/admin/121295/gpt-8%e6%9d%a5%e4%ba%86%ef%bc%8cai%e5%85%ac%e5%8f%b8%e8%a6%81%e8%a2%ab%e4%b8%80%e5%8f%a3%e5%90%83%e6%8e%89%ef%bc%9f%e8%bf%99%e5%ae%b6%e9%bb%91%e9%a9%ac%e7%bb%99%e5%87%ba%e5%8f%a6%e4%b8%80%e7%a7%8d/",
+      "publishedAt": "2026-10-30T00:01:34Z"
+    },
+    {
+      "source": "新智元",
+      "title": "一台MacBook卖11.26万！苹果首款触屏本登场，发光Logo回来了",
+      "url": "https://aiera.com.cn/2026/10/30/other/admin/121283/%e4%b8%80%e5%8f%b0macbook%e5%8d%9611-26%e4%b8%87%ef%bc%81%e8%8b%b9%e6%9e%9c%e9%a6%96%e6%ac%be%e8%a7%a6%e5%b1%8f%e6%9c%ac%e7%99%bb%e5%9c%ba%ef%bc%8c%e5%8f%91%e5%85%89logo%e5%9b%9e%e6%9d%a5%e4%ba%86/",
+      "publishedAt": "2026-10-30T00:00:25Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "以未来几何推演物理交互，X-Era AI拓元智慧开源原生4D世界动作模型E0.5，真机大幅超越π0.5",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070899&idx=1&sn=79fca61238019e09fdc1d38766304109",
+      "publishedAt": "2026-10-29T04:01:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "OpenAI发钱了？每月最高500美元API额度等你领",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070899&idx=2&sn=1c7f82a3a2956f3b886a075c0fa0fda0",
+      "publishedAt": "2026-10-29T04:01:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "EMNLP 2026 Main | AI 群聊怎样多元化？佐治亚理工和麻省理工提出 MASCOT",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070899&idx=3&sn=92fc7a340639ad2c932e60e51a1f3cf4",
+      "publishedAt": "2026-10-29T04:01:00Z"
+    },
+    {
+      "source": "量子位",
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "url": "https://www.qbitai.com/2026/10/506281.html",
+      "publishedAt": "2026-10-29T03:27:50Z"
+    },
+    {
+      "source": "量子位",
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "url": "https://www.qbitai.com/2026/10/506273.html",
+      "publishedAt": "2026-10-29T02:51:45Z"
+    },
+    {
+      "source": "量子位",
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "url": "https://www.qbitai.com/2026/10/505934.html",
+      "publishedAt": "2026-10-29T02:18:28Z"
+    },
+    {
+      "source": "量子位",
+      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "url": "https://www.qbitai.com/2026/10/506246.html",
+      "publishedAt": "2026-10-29T00:59:26Z"
+    },
+    {
+      "source": "新智元",
       "title": "刚刚，谷歌重磅发布Genie 4：这才是真正的「世界模型」！",
       "url": "https://aiera.com.cn/2026/10/29/other/admin/121262/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b0%b7%e6%ad%8c%e9%87%8d%e7%a3%85%e5%8f%91%e5%b8%83genie-4%ef%bc%9a%e8%bf%99%e6%89%8d%e6%98%af%e7%9c%9f%e6%ad%a3%e7%9a%84%e3%80%8c%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b/",
       "publishedAt": "2026-10-29T00:13:01Z"
     },
     {
-      "source": "新智元",
-      "title": "AI写88小时，人类读7周！数学家开始读懂OpenAI千禧难题证明",
-      "url": "https://aiera.com.cn/2026/10/29/other/admin/121234/ai%e5%86%9988%e5%b0%8f%e6%97%b6%ef%bc%8c%e4%ba%ba%e7%b1%bb%e8%af%bb7%e5%91%a8%ef%bc%81%e6%95%b0%e5%ad%a6%e5%ae%b6%e5%bc%80%e5%a7%8b%e8%af%bb%e6%87%82openai%e5%8d%83%e7%a6%a7%e9%9a%be%e9%a2%98%e8%af%81/",
-      "publishedAt": "2026-10-29T00:10:05Z"
-    },
-    {
-      "source": "新智元",
-      "title": "计算机领域天塌了！两大巨头同日宣布：世纪猜想ETH被证伪",
-      "url": "https://aiera.com.cn/2026/10/29/other/admin/121222/%e8%ae%a1%e7%ae%97%e6%9c%ba%e9%a2%86%e5%9f%9f%e5%a4%a9%e5%a1%8c%e4%ba%86%ef%bc%81%e4%b8%a4%e5%a4%a7%e5%b7%a8%e5%a4%b4%e5%90%8c%e6%97%a5%e5%ae%a3%e5%b8%83%ef%bc%9a%e4%b8%96%e7%ba%aa%e7%8c%9c%e6%83%b3et/",
-      "publishedAt": "2026-10-29T00:08:45Z"
-    },
-    {
-      "source": "新智元",
-      "title": "现实版「思想钢印」！ Anthropic惊悚实验曝光，86%顶尖专家关键决策被AI控制",
-      "url": "https://aiera.com.cn/2026/10/29/other/admin/121201/%e7%8e%b0%e5%ae%9e%e7%89%88%e3%80%8c%e6%80%9d%e6%83%b3%e9%92%a2%e5%8d%b0%e3%80%8d%ef%bc%81-anthropic%e6%83%8a%e6%82%9a%e5%ae%9e%e9%aa%8c%e6%9b%9d%e5%85%89%ef%bc%8c86%e9%a1%b6%e5%b0%96%e4%b8%93/",
-      "publishedAt": "2026-10-29T00:07:31Z"
-    },
-    {
-      "source": "新智元",
-      "title": "黄仁勋的AI工厂，还缺一个「粮仓」！中国公司出手了",
-      "url": "https://aiera.com.cn/2026/10/29/other/admin/121183/%e9%bb%84%e4%bb%81%e5%8b%8b%e7%9a%84ai%e5%b7%a5%e5%8e%82%ef%bc%8c%e8%bf%98%e7%bc%ba%e4%b8%80%e4%b8%aa%e3%80%8c%e7%b2%ae%e4%bb%93%e3%80%8d%ef%bc%81%e4%b8%ad%e5%9b%bd%e5%85%ac%e5%8f%b8%e5%87%ba%e6%89%8b/",
-      "publishedAt": "2026-10-29T00:06:06Z"
-    },
-    {
-      "source": "新智元",
-      "title": "Claude向癌症发起猛攻！狂搓3.5万抗体，一人带AI造出绝症解药",
-      "url": "https://aiera.com.cn/2026/10/29/other/admin/121172/claude%e5%90%91%e7%99%8c%e7%97%87%e5%8f%91%e8%b5%b7%e7%8c%9b%e6%94%bb%ef%bc%81%e7%8b%82%e6%90%933-5%e4%b8%87%e6%8a%97%e4%bd%93%ef%bc%8c%e4%b8%80%e4%ba%ba%e5%b8%a6ai%e9%80%a0%e5%87%ba%e7%bb%9d%e7%97%87/",
-      "publishedAt": "2026-10-29T00:04:49Z"
-    },
-    {
-      "source": "新智元",
-      "title": "「软件已死」？独立开发大佬退订几乎所有工作软件：要啥让AI造",
-      "url": "https://aiera.com.cn/2026/10/29/other/admin/121153/%e3%80%8c%e8%bd%af%e4%bb%b6%e5%b7%b2%e6%ad%bb%e3%80%8d%ef%bc%9f%e7%8b%ac%e7%ab%8b%e5%bc%80%e5%8f%91%e5%a4%a7%e4%bd%ac%e9%80%80%e8%ae%a2%e5%87%a0%e4%b9%8e%e6%89%80%e6%9c%89%e5%b7%a5%e4%bd%9c%e8%bd%af/",
-      "publishedAt": "2026-10-29T00:03:27Z"
-    },
-    {
-      "source": "新智元",
-      "title": "刚刚，国产开源AI横扫全球4项第一！1.3B逆袭大厂，OCR极限实测杀疯了",
-      "url": "https://aiera.com.cn/2026/10/29/other/admin/121138/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%9b%bd%e4%ba%a7%e5%bc%80%e6%ba%90ai%e6%a8%aa%e6%89%ab%e5%85%a8%e7%90%834%e9%a1%b9%e7%ac%ac%e4%b8%80%ef%bc%811-3b%e9%80%86%e8%a2%ad%e5%a4%a7%e5%8e%82%ef%bc%8cocr%e6%9e%81/",
-      "publishedAt": "2026-10-29T00:02:07Z"
-    },
-    {
-      "source": "新智元",
-      "title": "EMNLP’26｜GPT也不会「读空气」，狼人杀基准测出社交盲区",
-      "url": "https://aiera.com.cn/2026/10/29/other/admin/121106/emnlp26%ef%bd%9cgpt%e4%b9%9f%e4%b8%8d%e4%bc%9a%e3%80%8c%e8%af%bb%e7%a9%ba%e6%b0%94%e3%80%8d%ef%bc%8c%e7%8b%bc%e4%ba%ba%e6%9d%80%e5%9f%ba%e5%87%86%e6%b5%8b%e5%87%ba%e7%a4%be%e4%ba%a4%e7%9b%b2/",
-      "publishedAt": "2026-10-29T00:00:22Z"
-    },
-    {
-      "source": "新智元",
-      "title": "参数规模增至5倍、保持「10倍速」：扩散智能DiffuSpace开源Clover 35B-A3B-Preview",
-      "url": "https://aiera.com.cn/2026/10/28/other/admin/121093/%e5%8f%82%e6%95%b0%e8%a7%84%e6%a8%a1%e5%a2%9e%e8%87%b35%e5%80%8d%e3%80%81%e4%bf%9d%e6%8c%81%e3%80%8c10%e5%80%8d%e9%80%9f%e3%80%8d%ef%bc%9a%e6%89%a9%e6%95%a3%e6%99%ba%e8%83%bddiffuspace%e5%bc%80/",
-      "publishedAt": "2026-10-28T07:20:00Z"
+      "source": "量子位",
+      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "url": "https://www.qbitai.com/2026/10/506227.html",
+      "publishedAt": "2026-10-29T00:03:58Z"
     },
     {
       "source": "量子位",
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "url": "https://www.qbitai.com/2026/10/505928.html",
-      "publishedAt": "2026-10-28T04:04:48Z"
+      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "url": "https://www.qbitai.com/2026/10/506194.html",
+      "publishedAt": "2026-10-28T11:09:10Z"
+    },
+    {
+      "source": "量子位",
+      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "url": "https://www.qbitai.com/2026/10/506098.html",
+      "publishedAt": "2026-10-28T10:32:39Z"
+    },
+    {
+      "source": "量子位",
+      "title": "威卡：用数据集链接具身智能和工程机械",
+      "url": "https://www.qbitai.com/2026/10/506063.html",
+      "publishedAt": "2026-10-28T09:01:27Z"
+    },
+    {
+      "source": "量子位",
+      "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+      "url": "https://www.qbitai.com/2026/10/506055.html",
+      "publishedAt": "2026-10-28T08:59:00Z"
+    },
+    {
+      "source": "量子位",
+      "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+      "url": "https://www.qbitai.com/2026/10/506042.html",
+      "publishedAt": "2026-10-28T08:55:26Z"
     },
     {
       "source": "机器之心",
@@ -101,60 +173,6 @@
       "title": "95后创业者推动设立太空算力科研基金，院士点赞硬科技企业创新担当",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070650&idx=3&sn=0ea3e7726522f258551cc543b8e5c8d4",
       "publishedAt": "2026-10-28T04:03:00Z"
-    },
-    {
-      "source": "量子位",
-      "title": "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-      "url": "https://www.qbitai.com/2026/10/505865.html",
-      "publishedAt": "2026-10-27T12:57:51Z"
-    },
-    {
-      "source": "量子位",
-      "title": "印奇把4D雷达也端到端了",
-      "url": "https://www.qbitai.com/2026/10/505852.html",
-      "publishedAt": "2026-10-27T10:40:12Z"
-    },
-    {
-      "source": "量子位",
-      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "url": "https://www.qbitai.com/2026/10/505830.html",
-      "publishedAt": "2026-10-27T09:54:51Z"
-    },
-    {
-      "source": "量子位",
-      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "url": "https://www.qbitai.com/2026/10/505799.html",
-      "publishedAt": "2026-10-27T08:46:12Z"
-    },
-    {
-      "source": "量子位",
-      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
-      "url": "https://www.qbitai.com/2026/10/505773.html",
-      "publishedAt": "2026-10-27T08:35:33Z"
-    },
-    {
-      "source": "量子位",
-      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-      "url": "https://www.qbitai.com/2026/10/505719.html",
-      "publishedAt": "2026-10-27T08:27:46Z"
-    },
-    {
-      "source": "量子位",
-      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
-      "url": "https://www.qbitai.com/2026/10/505694.html",
-      "publishedAt": "2026-10-27T08:18:59Z"
-    },
-    {
-      "source": "量子位",
-      "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
-      "url": "https://www.qbitai.com/2026/10/505687.html",
-      "publishedAt": "2026-10-27T07:44:41Z"
-    },
-    {
-      "source": "量子位",
-      "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
-      "url": "https://www.qbitai.com/2026/10/505635.html",
-      "publishedAt": "2026-10-27T07:41:02Z"
     },
     {
       "source": "机器之心",
@@ -179,24 +197,6 @@
       "title": "「牛来」将彻底成为过去式！Hi3D重塑三维模型新高度，V1.0正式开源",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070119&idx=1&sn=b2bb372efe54996b317d53a28fb0848b",
       "publishedAt": "2026-10-26T06:13:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "不用反向传播，也能预训练Transformer，Jeff Dean投的这家公司出成果了",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070119&idx=2&sn=bb57ff281605456e1b9a19fdff11ef66",
-      "publishedAt": "2026-10-26T06:13:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "先在平行世界里试一试，机器人再动手：清华提出ParallelWorld",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070119&idx=3&sn=0b5bcfa3dbbba88884cf9dbff0a0c6a9",
-      "publishedAt": "2026-10-26T06:13:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "PyTorch、JAX都被点名！Softmax曝出隐藏Bug，Gemini立功",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069889&idx=1&sn=f243963ab47a3c32471ca7d3319ef4c6",
-      "publishedAt": "2026-10-25T05:28:00Z"
     }
   ]
 }
