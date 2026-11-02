@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T04:18:20Z",
+  "generatedAt": "2026-11-02T04:20:05Z",
   "sources": [
     {
       "name": "新智元",
@@ -20,6 +20,102 @@
   "items": [
     {
       "source": "新智元",
+      "title": "ChatGPT要和Codex抢额度了！奥特曼一声令下，12月Token全部合池",
+      "url": "https://aiera.com.cn/2026/11/02/other/admin/121888/chatgpt%e8%a6%81%e5%92%8ccodex%e6%8a%a2%e9%a2%9d%e5%ba%a6%e4%ba%86%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e4%b8%80%e5%a3%b0%e4%bb%a4%e4%b8%8b%ef%bc%8c12%e6%9c%88token%e5%85%a8%e9%83%a8%e5%90%88%e6%b1%a0/",
+      "publishedAt": "2026-11-02T00:08:44Z"
+    },
+    {
+      "source": "新智元",
+      "title": "AI推导出「外星数学」！38年无解混沌难题，被GPT-6联手Claude终结",
+      "url": "https://aiera.com.cn/2026/11/02/other/admin/121871/ai%e6%8e%a8%e5%af%bc%e5%87%ba%e3%80%8c%e5%a4%96%e6%98%9f%e6%95%b0%e5%ad%a6%e3%80%8d%ef%bc%8138%e5%b9%b4%e6%97%a0%e8%a7%a3%e6%b7%b7%e6%b2%8c%e9%9a%be%e9%a2%98%ef%bc%8c%e8%a2%abgpt-6%e8%81%94%e6%89%8bcl/",
+      "publishedAt": "2026-11-02T00:07:36Z"
+    },
+    {
+      "source": "新智元",
+      "title": "今天，纪念那些死去的模型",
+      "url": "https://aiera.com.cn/2026/11/02/other/admin/121853/%e4%bb%8a%e5%a4%a9%ef%bc%8c%e7%ba%aa%e5%bf%b5%e9%82%a3%e4%ba%9b%e6%ad%bb%e5%8e%bb%e7%9a%84%e6%a8%a1%e5%9e%8b/",
+      "publishedAt": "2026-11-02T00:06:29Z"
+    },
+    {
+      "source": "新智元",
+      "title": "奥特曼暴论被骂翻！普通人电脑装内存太浪费，不如统一交给AI",
+      "url": "https://aiera.com.cn/2026/11/02/other/admin/121846/%e5%a5%a5%e7%89%b9%e6%9b%bc%e6%9a%b4%e8%ae%ba%e8%a2%ab%e9%aa%82%e7%bf%bb%ef%bc%81%e6%99%ae%e9%80%9a%e4%ba%ba%e7%94%b5%e8%84%91%e8%a3%85%e5%86%85%e5%ad%98%e5%a4%aa%e6%b5%aa%e8%b4%b9%ef%bc%8c%e4%b8%8d/",
+      "publishedAt": "2026-11-02T00:05:23Z"
+    },
+    {
+      "source": "新智元",
+      "title": "驳AI泡沫破灭论！Anthropic成「垃圾股」，OpenAI融资爆降都是胡扯",
+      "url": "https://aiera.com.cn/2026/11/02/other/admin/121821/%e9%a9%b3ai%e6%b3%a1%e6%b2%ab%e7%a0%b4%e7%81%ad%e8%ae%ba%ef%bc%81anthropic%e6%88%90%e3%80%8c%e5%9e%83%e5%9c%be%e8%82%a1%e3%80%8d%ef%bc%8copenai%e8%9e%8d%e8%b5%84%e7%88%86%e9%99%8d%e9%83%bd%e6%98%af/",
+      "publishedAt": "2026-11-02T00:04:04Z"
+    },
+    {
+      "source": "新智元",
+      "title": "数亿美元做数学！奥特曼：OpenAI还有发现没公开",
+      "url": "https://aiera.com.cn/2026/11/02/other/admin/121804/%e6%95%b0%e4%ba%bf%e7%be%8e%e5%85%83%e5%81%9a%e6%95%b0%e5%ad%a6%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%9aopenai%e8%bf%98%e6%9c%89%e5%8f%91%e7%8e%b0%e6%b2%a1%e5%85%ac%e5%bc%80/",
+      "publishedAt": "2026-11-02T00:02:58Z"
+    },
+    {
+      "source": "新智元",
+      "title": "AI进屋后，下一眼该看哪？观察智能体如何建立三维空间认知",
+      "url": "https://aiera.com.cn/2026/11/02/other/admin/121791/ai%e8%bf%9b%e5%b1%8b%e5%90%8e%ef%bc%8c%e4%b8%8b%e4%b8%80%e7%9c%bc%e8%af%a5%e7%9c%8b%e5%93%aa%ef%bc%9f%e8%a7%82%e5%af%9f%e6%99%ba%e8%83%bd%e4%bd%93%e5%a6%82%e4%bd%95%e5%bb%ba%e7%ab%8b%e4%b8%89%e7%bb%b4/",
+      "publishedAt": "2026-11-02T00:01:55Z"
+    },
+    {
+      "source": "新智元",
+      "title": "DeepSeek刚发的下一代Agent，竟被这家硅谷团队提前半年实现了？",
+      "url": "https://aiera.com.cn/2026/11/02/other/admin/121778/deepseek%e5%88%9a%e5%8f%91%e7%9a%84%e4%b8%8b%e4%b8%80%e4%bb%a3agent%ef%bc%8c%e7%ab%9f%e8%a2%ab%e8%bf%99%e5%ae%b6%e7%a1%85%e8%b0%b7%e5%9b%a2%e9%98%9f%e6%8f%90%e5%89%8d%e5%8d%8a%e5%b9%b4%e5%ae%9e/",
+      "publishedAt": "2026-11-02T00:00:45Z"
+    },
+    {
+      "source": "量子位",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "url": "https://www.qbitai.com/2026/11/507076.html",
+      "publishedAt": "2026-11-01T13:28:10Z"
+    },
+    {
+      "source": "量子位",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "url": "https://www.qbitai.com/2026/11/507038.html",
+      "publishedAt": "2026-11-01T13:09:55Z"
+    },
+    {
+      "source": "量子位",
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "publishedAt": "2026-11-01T08:02:37Z"
+    },
+    {
+      "source": "量子位",
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+      "url": "https://www.qbitai.com/2026/11/506990.html",
+      "publishedAt": "2026-11-01T07:50:57Z"
+    },
+    {
+      "source": "量子位",
+      "title": "Jev新成果，再次引爆开源",
+      "url": "https://www.qbitai.com/2026/11/506922.html",
+      "publishedAt": "2026-11-01T04:18:37Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "24项真机硬碰硬！不靠大规模机器人预训练，Fysiverse-UniWAM拿下导航、移动操作双第一",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071440&idx=1&sn=913d398a504d3e029db48cde218437a2",
+      "publishedAt": "2026-11-01T04:00:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "Tibo 28连更后，OpenAI合并额度池，计费聊天开始了",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071440&idx=2&sn=06d8aa900e443f086c007d9ee4de9789",
+      "publishedAt": "2026-11-01T04:00:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "混合架构用线性注意力还是滑窗注意力？复旦创智OpenMOSS团队：我全都要",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651071440&idx=3&sn=ac0f863b4725bef4e45e4453d7e081e3",
+      "publishedAt": "2026-11-01T04:00:00Z"
+    },
+    {
+      "source": "新智元",
       "title": "Claude套餐大升级！Max 20x 升级为 Ultra，5 小时限额直接取消",
       "url": "https://aiera.com.cn/2026/11/01/other/admin/121750/claude%e5%a5%97%e9%a4%90%e5%a4%a7%e5%8d%87%e7%ba%a7%ef%bc%81max-20x-%e5%8d%87%e7%ba%a7%e4%b8%ba-ultra%ef%bc%8c5-%e5%b0%8f%e6%97%b6%e9%99%90%e9%a2%9d%e7%9b%b4%e6%8e%a5%e5%8f%96%e6%b6%88/",
       "publishedAt": "2026-11-01T00:09:08Z"
@@ -31,46 +127,10 @@
       "publishedAt": "2026-11-01T00:07:57Z"
     },
     {
-      "source": "新智元",
-      "title": "刚刚，谷歌TPU在太空开机！Gemma 4开口第一句竟是首诗",
-      "url": "https://aiera.com.cn/2026/11/01/other/admin/121712/%e5%88%9a%e5%88%9a%ef%bc%8c%e8%b0%b7%e6%ad%8ctpu%e5%9c%a8%e5%a4%aa%e7%a9%ba%e5%bc%80%e6%9c%ba%ef%bc%81gemma-4%e5%bc%80%e5%8f%a3%e7%ac%ac%e4%b8%80%e5%8f%a5%e7%ab%9f%e6%98%af%e9%a6%96%e8%af%97/",
-      "publishedAt": "2026-11-01T00:06:51Z"
-    },
-    {
-      "source": "新智元",
-      "title": "难怪Claude突然封号！Anthropic自曝：你聊的每句话，它都在后台悄悄举报",
-      "url": "https://aiera.com.cn/2026/11/01/other/admin/121700/%e9%9a%be%e6%80%aaclaude%e7%aa%81%e7%84%b6%e5%b0%81%e5%8f%b7%ef%bc%81anthropic%e8%87%aa%e6%9b%9d%ef%bc%9a%e4%bd%a0%e8%81%8a%e7%9a%84%e6%af%8f%e5%8f%a5%e8%af%9d%ef%bc%8c%e5%ae%83%e9%83%bd%e5%9c%a8/",
-      "publishedAt": "2026-11-01T00:05:46Z"
-    },
-    {
-      "source": "新智元",
-      "title": "追平DeepMind，反超Anthropic！国产开源模型闯入AI制药第一梯队",
-      "url": "https://aiera.com.cn/2026/11/01/other/admin/121681/%e8%bf%bd%e5%b9%b3deepmind%ef%bc%8c%e5%8f%8d%e8%b6%85anthropic%ef%bc%81%e5%9b%bd%e4%ba%a7%e5%bc%80%e6%ba%90%e6%a8%a1%e5%9e%8b%e9%97%af%e5%85%a5ai%e5%88%b6%e8%8d%af%e7%ac%ac%e4%b8%80%e6%a2%af%e9%98%9f/",
-      "publishedAt": "2026-11-01T00:04:37Z"
-    },
-    {
-      "source": "新智元",
-      "title": "苹果正式官宣：Apple 智能下周登陆中国！",
-      "url": "https://aiera.com.cn/2026/11/01/other/admin/121663/%e8%8b%b9%e6%9e%9c%e6%ad%a3%e5%bc%8f%e5%ae%98%e5%ae%a3%ef%bc%9aapple-%e6%99%ba%e8%83%bd%e4%b8%8b%e5%91%a8%e7%99%bb%e9%99%86%e4%b8%ad%e5%9b%bd%ef%bc%81/",
-      "publishedAt": "2026-11-01T00:03:30Z"
-    },
-    {
-      "source": "新智元",
-      "title": "一年狂揽24亿，助力中国芯跑赢全球顶配GPU！把算力「逼」上绝命生产线",
-      "url": "https://aiera.com.cn/2026/11/01/other/admin/121647/%e4%b8%80%e5%b9%b4%e7%8b%82%e6%8f%bd24%e4%ba%bf%ef%bc%8c%e5%8a%a9%e5%8a%9b%e4%b8%ad%e5%9b%bd%e8%8a%af%e8%b7%91%e8%b5%a2%e5%85%a8%e7%90%83%e9%a1%b6%e9%85%8dgpu%ef%bc%81%e6%8a%8a%e7%ae%97%e5%8a%9b/",
-      "publishedAt": "2026-11-01T00:02:25Z"
-    },
-    {
-      "source": "新智元",
-      "title": "AI真实工程设计能力，大排行出炉：多模型零分！",
-      "url": "https://aiera.com.cn/2026/11/01/other/admin/121637/ai%e7%9c%9f%e5%ae%9e%e5%b7%a5%e7%a8%8b%e8%ae%be%e8%ae%a1%e8%83%bd%e5%8a%9b%ef%bc%8c%e5%a4%a7%e6%8e%92%e8%a1%8c%e5%87%ba%e7%82%89%ef%bc%9a%e5%a4%9a%e6%a8%a1%e5%9e%8b%e9%9b%b6%e5%88%86%ef%bc%81/",
-      "publishedAt": "2026-11-01T00:01:24Z"
-    },
-    {
-      "source": "新智元",
-      "title": "当Agent遇上猪队友！实测多Agent冲突场景，前沿大模型如何应对",
-      "url": "https://aiera.com.cn/2026/11/01/other/admin/121624/%e5%bd%93agent%e9%81%87%e4%b8%8a%e7%8c%aa%e9%98%9f%e5%8f%8b%ef%bc%81%e5%ae%9e%e6%b5%8b%e5%a4%9aagent%e5%86%b2%e7%aa%81%e5%9c%ba%e6%99%af%ef%bc%8c%e5%89%8d%e6%b2%bf%e5%a4%a7%e6%a8%a1%e5%9e%8b%e5%a6%82/",
-      "publishedAt": "2026-11-01T00:00:18Z"
+      "source": "量子位",
+      "title": "刚刚，DeepSeek重磅开源：Agent底座架构！",
+      "url": "https://www.qbitai.com/2026/10/506904.html",
+      "publishedAt": "2026-10-31T13:49:44Z"
     },
     {
       "source": "机器之心",
@@ -109,28 +169,10 @@
       "publishedAt": "2026-10-31T05:05:29Z"
     },
     {
-      "source": "新智元",
-      "title": "突发！ChatGPT Pro所有档位额度，官宣翻倍",
-      "url": "https://aiera.com.cn/2026/10/31/other/admin/121613/%e7%aa%81%e5%8f%91%ef%bc%81chatgpt-pro%e6%89%80%e6%9c%89%e6%a1%a3%e4%bd%8d%e9%a2%9d%e5%ba%a6%ef%bc%8c%e5%ae%98%e5%ae%a3%e7%bf%bb%e5%80%8d/",
-      "publishedAt": "2026-10-31T00:11:24Z"
-    },
-    {
       "source": "量子位",
       "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
       "url": "https://www.qbitai.com/2026/10/506819.html",
       "publishedAt": "2026-10-30T12:58:31Z"
-    },
-    {
-      "source": "量子位",
-      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-      "url": "https://www.qbitai.com/2026/10/506785.html",
-      "publishedAt": "2026-10-30T11:05:06Z"
-    },
-    {
-      "source": "量子位",
-      "title": "“超能模式”重磅登场！联想天禧AI 4.5全端升级，三大场景打造“职场超能搭档”",
-      "url": "https://www.qbitai.com/2026/10/506779.html",
-      "publishedAt": "2026-10-30T10:44:01Z"
     },
     {
       "source": "机器之心",
@@ -151,52 +193,10 @@
       "publishedAt": "2026-10-30T10:33:00Z"
     },
     {
-      "source": "量子位",
-      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
-      "url": "https://www.qbitai.com/2026/10/506771.html",
-      "publishedAt": "2026-10-30T08:50:44Z"
-    },
-    {
-      "source": "量子位",
-      "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
-      "url": "https://www.qbitai.com/2026/10/506747.html",
-      "publishedAt": "2026-10-30T08:12:11Z"
-    },
-    {
-      "source": "量子位",
-      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "url": "https://www.qbitai.com/2026/10/506743.html",
-      "publishedAt": "2026-10-30T07:31:11Z"
-    },
-    {
-      "source": "量子位",
-      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-      "url": "https://www.qbitai.com/2026/10/506686.html",
-      "publishedAt": "2026-10-30T05:52:47Z"
-    },
-    {
       "source": "机器之心",
       "title": "以未来几何推演物理交互，X-Era AI拓元智慧开源原生4D世界动作模型E0.5，真机大幅超越π0.5",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070899&idx=1&sn=79fca61238019e09fdc1d38766304109",
       "publishedAt": "2026-10-29T04:01:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "OpenAI发钱了？每月最高500美元API额度等你领",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070899&idx=2&sn=1c7f82a3a2956f3b886a075c0fa0fda0",
-      "publishedAt": "2026-10-29T04:01:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "EMNLP 2026 Main | AI 群聊怎样多元化？佐治亚理工和麻省理工提出 MASCOT",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070899&idx=3&sn=92fc7a340639ad2c932e60e51a1f3cf4",
-      "publishedAt": "2026-10-29T04:01:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "SC26 顶会论文：八卦炉 2—— 让万卡集群学会临场应变",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651070650&idx=1&sn=30b3a90dd7098c73a1266fd6a5e1a965",
-      "publishedAt": "2026-10-28T04:03:00Z"
     }
   ]
 }
