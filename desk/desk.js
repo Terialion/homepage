@@ -104,6 +104,11 @@ const updatedFormatter = new Intl.DateTimeFormat("zh-CN", {
   minute: "2-digit",
   hourCycle: "h23",
 });
+const feedUpdatedFormatter = new Intl.DateTimeFormat("zh-CN", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
 
 const homeView = $("#home-view");
 const workspaceView = $("#workspace-view");
@@ -124,6 +129,7 @@ let studyGoals = readArray(KEYS.studyGoals);
 let notes = readArray(KEYS.notes);
 let reviews = readObject(KEYS.reviews);
 let feedItems = [];
+let feedStatus = "正在载入简报";
 let taskFilter = "open";
 let libraryStateFilter = "unread";
 let librarySourceFilter = "all";
@@ -214,23 +220,30 @@ function updateClock() {
   const yearProgress = ((now - yearStart) / (yearEnd - yearStart)) * 100;
   const readableProgress = yearProgress.toFixed(1);
 
-  dateElement.dateTime = machineTime;
+  const today = localDateKey(now);
+  dateElement.dateTime = today;
   timeElement.dateTime = machineTime;
   dateElement.textContent = dateFormatter.format(now);
   timeElement.textContent = timeFormatter.format(now);
-  todayDateElement.dateTime = localDateKey(now);
+  todayDateElement.dateTime = today;
   todayDateElement.textContent = dateFormatter.format(now);
   yearPercentElement.textContent = `${readableProgress}%`;
   yearProgressElement.setAttribute("aria-valuenow", readableProgress);
   $("span", yearProgressElement).style.width = `${yearProgress}%`;
 
-  const nextQuoteDateKey = localDateKey(now);
-  if (nextQuoteDateKey !== quoteDateKey) {
-    quoteDateKey = nextQuoteDateKey;
+  if (today !== quoteDateKey) {
+    const dateChanged = quoteDateKey !== "";
+    quoteDateKey = today;
     quoteIndex =
       Math.floor(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()) / 86400000) %
       dailyQuotes.length;
     quoteElement.textContent = dailyQuotes[quoteIndex];
+    if (dateChanged) {
+      renderTasks();
+      renderReview();
+      renderFocus();
+      updateSummaries();
+    }
   }
 }
 
@@ -239,7 +252,7 @@ function currentRoute() {
   return Object.hasOwn(ROUTES, route) ? route : "home";
 }
 
-function renderRoute() {
+function renderRoute(event) {
   const route = currentRoute();
   const isHome = route === "home";
   homeView.hidden = !isHome;
@@ -262,7 +275,10 @@ function renderRoute() {
     if (route === "notes") renderNotes();
   }
 
-  if (window.location.hash !== "#home-main") window.scrollTo({ top: 0 });
+  if (window.location.hash !== "#home-main") {
+    window.scrollTo({ top: 0, behavior: "instant" });
+    if (event) (isHome ? $("#home-main") : workspaceTitle).focus({ preventScroll: true });
+  }
 }
 
 function taskDueLabel(due) {
@@ -502,7 +518,10 @@ function renderLibrary() {
   const list = $("#library-list");
   list.replaceChildren();
 
-  if (!items.length) list.append(createElement("li", "feed-message", "当前筛选条件下没有资料。"));
+  if (!items.length) {
+    const emptyMessage = librarySourceFilter === "manual" ? "" : feedStatus;
+    list.append(createElement("li", "feed-message", emptyMessage || "当前筛选条件下没有资料。"));
+  }
 
   for (const item of items) {
     const state = itemState(item);
@@ -582,17 +601,23 @@ function renderLibrary() {
 
 async function loadFeeds() {
   try {
-    const response = await fetch(`data/feeds.json?v=${localDateKey()}`);
+    const response = await fetch("data/feeds.json", { cache: "no-cache" });
     if (!response.ok) throw new Error(`Feed request failed: ${response.status}`);
     const data = await response.json();
-    if (!Array.isArray(data.items)) throw new Error("Invalid feed data");
+    const generatedAt = new Date(data.generatedAt);
+    if (!Array.isArray(data.items) || !data.generatedAt || Number.isNaN(generatedAt.getTime())) {
+      throw new Error("Invalid feed data");
+    }
     feedItems = data.items;
+    feedStatus = "";
     $("#feed-updated").dateTime = data.generatedAt;
-    $("#feed-updated").textContent = `更新于 ${updatedFormatter.format(new Date(data.generatedAt))}`;
+    $("#feed-updated").textContent = `简报更新于 ${feedUpdatedFormatter.format(generatedAt)}`;
+    $("#feed-updated").hidden = false;
   } catch (error) {
-    $("#feed-updated").textContent = "推送暂不可用";
+    feedStatus = "简报暂不可用";
     console.error(error);
   }
+  $("#feed-message").textContent = feedStatus;
   renderLibrary();
   updateSummaries();
 }
@@ -792,18 +817,12 @@ function updateSummaries() {
   const activeGoals = studyGoals.filter((goal) => Number(goal.progress) < 100).length;
   const shortcutCount = loadShortcuts().length;
 
-  $("#summary-today").textContent = todayOpen ? `${todayOpen} 项待处理` : "今天从这里开始";
+  $("#summary-today").textContent = todayOpen ? `${todayOpen} 项待处理` : "任务、专注与回顾";
   $("#summary-projects").textContent = activeProjects ? `${activeProjects} 个进行中` : "暂无进行中项目";
-  $("#summary-library").textContent = unread ? `${unread} 篇未读` : "阅读列表已清空";
+  $("#summary-library").textContent = feedStatus || (unread ? `${unread} 篇未读` : "暂无未读");
   $("#summary-study").textContent = `${quiz.checked} 道题 · ${activeGoals} 个目标`;
   $("#summary-notes").textContent = notes.length ? `${notes.length} 篇本地笔记` : "暂无笔记";
   $("#summary-toolbox").textContent = `${shortcutCount} 个常用入口`;
-  $("#home-status").textContent = `${todayOpen} 项待办 · ${unread} 篇未读 · ${activeProjects} 个项目`;
-
-  const nextTask = tasks
-    .filter((task) => !task.done)
-    .sort((a, b) => (a.due || "9999").localeCompare(b.due || "9999"))[0];
-  $("#home-status-meta").textContent = nextTask ? `接下来：${nextTask.title}` : "A clear place to begin";
 }
 
 function applyAppearance(value) {

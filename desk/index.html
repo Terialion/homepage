@@ -8,77 +8,40 @@
     <title>Terialion 的起始页</title>
     <link rel="icon" href="data:," />
     <link rel="preload" href="../assets/hero-landscape.jpg?v=20260905-2" as="image" />
-    <link rel="stylesheet" href="desk.css?v=20260905-4" />
-    <script src="desk.js?v=20260905-3" defer></script>
+    <link rel="stylesheet" href="desk.css?v=20261123-1" />
+    <script src="desk.js?v=20261123-1" defer></script>
   </head>
   <body data-appearance="balanced">
     <a class="skip-link" href="#home-main">跳到工作区</a>
     <div class="backdrop" aria-hidden="true"></div>
 
     <main class="desk-shell" id="home-view">
-      <section class="identity" aria-labelledby="desk-title">
-        <div>
-          <div class="wordmark">
-            <img
-              class="desk-avatar"
-              src="../assets/profile-avatar-small.jpg"
-              alt="Terialion 的头像"
-              width="104"
-              height="104"
-            />
-            <div>
-              <p>Personal Desk</p>
-              <strong>Terialion</strong>
-            </div>
-          </div>
-
-          <h1 id="desk-title">Wang Yuhang</h1>
-          <p class="identity-lead">
-            一处安静的起点，通往代码、论文，以及我正在理解的系统。
-          </p>
-
-          <nav class="identity-links" aria-label="个人入口">
-            <a href="../">公开简历 <span aria-hidden="true">&#8599;</span></a>
-            <a href="https://github.com/Terialion" target="_blank" rel="noreferrer">
-              GitHub <span aria-hidden="true">&#8599;</span>
-            </a>
-          </nav>
-        </div>
-
-        <div class="status-panel glass-panel">
-          <p class="panel-label">当前状态</p>
-          <p id="home-status">AI Infra · Kernel · System · Compiler</p>
-          <span><i aria-hidden="true"></i><span id="home-status-meta">Learning in public</span></span>
-        </div>
-      </section>
-
-      <section class="workspace" id="home-main" aria-label="起始页工具">
-        <div class="widget-row">
-          <section class="quote-panel glass-panel" aria-labelledby="quote-title">
-            <div class="quote-heading">
-              <p class="panel-label" id="quote-title">每日一句</p>
-              <button
-                class="quote-refresh"
-                id="refresh-quote"
-                type="button"
-                aria-label="换一句"
-                title="换一句"
-              >
-                <span aria-hidden="true">&#8635;</span>
-              </button>
-            </div>
-            <blockquote id="daily-quote" aria-live="polite">
-              真正重要的进步，通常来自把一件小事做完。
-            </blockquote>
-          </section>
-
-          <div class="clock-panel glass-panel">
-            <p class="panel-label">本地时间</p>
-            <time id="desk-date" class="desk-date">2026 年 9 月 5 日 星期六</time>
-            <time id="desk-time" class="desk-time">00:00:00</time>
+      <header class="identity">
+        <div class="wordmark">
+          <img
+            class="desk-avatar"
+            src="../assets/profile-avatar-small.jpg"
+            alt=""
+            width="104"
+            height="104"
+          />
+          <div>
+            <p>Terialion Desk</p>
+            <h1>Wang Yuhang</h1>
           </div>
         </div>
 
+        <nav class="identity-links" aria-label="个人入口">
+          <a href="../">公开简历</a>
+          <a href="https://github.com/Terialion" target="_blank" rel="noreferrer">GitHub</a>
+          <button class="icon-button" type="button" data-open-settings aria-label="打开设置" title="设置">
+            <span aria-hidden="true">&#9881;</span>
+          </button>
+        </nav>
+      </header>
+
+      <section class="workspace" id="home-main" aria-labelledby="launcher-title" tabindex="-1">
+        <h2 id="launcher-title">工作区</h2>
         <form
           class="search glass-panel"
           action="https://www.google.com/search"
@@ -86,76 +49,94 @@
           target="_blank"
           role="search"
         >
-          <label for="web-search">搜索网络</label>
+          <label class="visually-hidden" for="web-search">搜索网络</label>
           <input
             id="web-search"
             name="q"
             type="search"
             placeholder="搜索论文、代码或任何问题"
             autocomplete="off"
+            required
           />
-          <button type="submit" aria-label="搜索">
-            <span aria-hidden="true">&#8594;</span>
-          </button>
+          <button type="submit">搜索</button>
         </form>
 
-        <section class="module-launcher" id="module-launcher" aria-labelledby="launcher-title">
-          <div class="launcher-heading">
-            <div>
-              <p class="panel-label">Workspace</p>
-              <h2 id="launcher-title">工作区</h2>
-            </div>
-            <button class="icon-button" type="button" data-open-settings aria-label="打开设置" title="设置">
-              <span aria-hidden="true">&#9881;</span>
-            </button>
-          </div>
+        <nav class="module-grid" aria-label="工作区模块">
+          <a class="module-card glass-panel" href="#today">
+            <span class="module-symbol" aria-hidden="true">&#10003;</span>
+            <strong>Today</strong>
+            <small id="summary-today">任务、专注与回顾</small>
+          </a>
+          <a class="module-card glass-panel" href="#projects">
+            <span class="module-symbol" aria-hidden="true">&#9671;</span>
+            <strong>Projects</strong>
+            <small id="summary-projects">暂无进行中项目</small>
+          </a>
+          <a class="module-card glass-panel" href="#library">
+            <span class="module-symbol" aria-hidden="true">&#9638;</span>
+            <strong>Library</strong>
+            <small id="summary-library">正在载入简报</small>
+          </a>
+          <a class="module-card glass-panel" href="#study">
+            <span class="module-symbol" aria-hidden="true">&#9678;</span>
+            <strong>Study</strong>
+            <small id="summary-study">学习进度</small>
+          </a>
+          <a class="module-card glass-panel" href="#notes">
+            <span class="module-symbol" aria-hidden="true">&#9998;</span>
+            <strong>Notes</strong>
+            <small id="summary-notes">暂无笔记</small>
+          </a>
+          <a class="module-card glass-panel" href="#toolbox">
+            <span class="module-symbol" aria-hidden="true">&#8984;</span>
+            <strong>Toolbox</strong>
+            <small id="summary-toolbox">常用入口</small>
+          </a>
+        </nav>
+      </section>
 
-          <nav class="module-grid" aria-label="工作区模块">
-            <a class="module-card glass-panel" href="#today">
-              <span class="module-symbol" aria-hidden="true">&#10003;</span>
-              <span><strong>Today</strong><small id="summary-today">今天从这里开始</small></span>
-            </a>
-            <a class="module-card glass-panel" href="#projects">
-              <span class="module-symbol" aria-hidden="true">&#9671;</span>
-              <span><strong>Projects</strong><small id="summary-projects">暂无进行中项目</small></span>
-            </a>
-            <a class="module-card glass-panel" href="#library">
-              <span class="module-symbol" aria-hidden="true">&#9638;</span>
-              <span><strong>Library</strong><small id="summary-library">正在载入文章</small></span>
-            </a>
-            <a class="module-card glass-panel" href="#study">
-              <span class="module-symbol" aria-hidden="true">&#9678;</span>
-              <span><strong>Study</strong><small id="summary-study">学习进度</small></span>
-            </a>
-            <a class="module-card glass-panel" href="#notes">
-              <span class="module-symbol" aria-hidden="true">&#9998;</span>
-              <span><strong>Notes</strong><small id="summary-notes">暂无笔记</small></span>
-            </a>
-            <a class="module-card glass-panel" href="#toolbox">
-              <span class="module-symbol" aria-hidden="true">&#8984;</span>
-              <span><strong>Toolbox</strong><small id="summary-toolbox">常用入口</small></span>
-            </a>
-          </nav>
+      <aside class="desk-widgets" aria-label="时间与每日一句">
+        <section class="clock-panel glass-panel" aria-labelledby="clock-title">
+          <h2 class="panel-label" id="clock-title">本地时间</h2>
+          <time id="desk-time" class="desk-time"></time>
+          <time id="desk-date" class="desk-date"></time>
+          <div class="clock-progress">
+            <div class="progress-copy">
+              <span>年度进度</span>
+              <strong id="year-percent">0%</strong>
+            </div>
+            <div
+              class="progress-track"
+              id="year-progress"
+              role="progressbar"
+              aria-label="年度进度"
+              aria-valuemin="0"
+              aria-valuemax="100"
+              aria-valuenow="0"
+            >
+              <span></span>
+            </div>
+          </div>
         </section>
 
-        <footer class="desk-footer">
-          <div class="progress-copy">
-            <span>今年已经走过</span>
-            <strong id="year-percent">0%</strong>
+        <section class="quote-panel glass-panel" aria-labelledby="quote-title">
+          <div class="quote-heading">
+            <h2 class="panel-label" id="quote-title">每日一句</h2>
+            <button
+              class="quote-refresh"
+              id="refresh-quote"
+              type="button"
+              aria-label="换一句"
+              title="换一句"
+            >
+              <span aria-hidden="true">&#8635;</span>
+            </button>
           </div>
-          <div
-            class="progress-track"
-            id="year-progress"
-            role="progressbar"
-            aria-label="年度进度"
-            aria-valuemin="0"
-            aria-valuemax="100"
-            aria-valuenow="0"
-          >
-            <span></span>
-          </div>
-        </footer>
-      </section>
+          <p id="daily-quote" aria-live="polite">
+            真正重要的进步，通常来自把一件小事做完。
+          </p>
+        </section>
+      </aside>
     </main>
 
     <main class="workspace-shell" id="workspace-view" hidden>
@@ -184,7 +165,7 @@
         <header class="workspace-header">
           <div>
             <p class="panel-label">Terialion / Desk</p>
-            <h1 id="workspace-title">Today</h1>
+            <h1 id="workspace-title" tabindex="-1">Today</h1>
           </div>
           <a class="home-button" href="#home" aria-label="返回 Home">&#8592; Home</a>
         </header>
@@ -262,7 +243,10 @@
         <section class="module-view" data-view="library" aria-labelledby="library-title" hidden>
           <div class="view-heading">
             <div><p class="panel-label">Read &amp; collect</p><h2 id="library-title">资料库</h2></div>
-            <time id="feed-updated" class="feed-updated">正在更新</time>
+            <span class="feed-updated" role="status">
+              <time id="feed-updated" hidden></time>
+              <span id="feed-message">正在载入简报</span>
+            </span>
           </div>
           <div class="library-layout">
             <section class="tool-panel glass-panel">
