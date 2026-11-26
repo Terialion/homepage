@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T06:56:02Z",
+  "generatedAt": "2026-11-26T06:47:05Z",
   "sources": [
     {
       "name": "新智元",
@@ -19,106 +19,136 @@
   ],
   "items": [
     {
-      "source": "新智元",
-      "title": "蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集",
-      "url": "https://aiera.com.cn/2026/11/25/other/admin/125213/%e8%9a%82%e8%9a%81%e5%8f%91%e5%b8%83%e5%8c%bb%e7%96%97ai%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e6%a8%a1%e5%9e%8blingsante-medguard%ef%bc%8c%e5%bc%80%e6%94%be%e9%a3%8e%e9%99%a9%e8%af%84%e6%b5%8b%e6%95%b0/",
-      "publishedAt": "2026-11-25T06:24:34Z"
-    },
-    {
-      "source": "新智元",
-      "title": "国产AI黑马迎来大爆发！单季业绩三项破纪录，股价暴涨22%",
-      "url": "https://aiera.com.cn/2026/11/25/other/admin/125210/%e5%9b%bd%e4%ba%a7ai%e9%bb%91%e9%a9%ac%e8%bf%8e%e6%9d%a5%e5%a4%a7%e7%88%86%e5%8f%91%ef%bc%81%e5%8d%95%e5%ad%a3%e4%b8%9a%e7%bb%a9%e4%b8%89%e9%a1%b9%e7%a0%b4%e7%ba%aa%e5%bd%95%ef%bc%8c%e8%82%a1%e4%bb%b7/",
-      "publishedAt": "2026-11-25T00:13:09Z"
-    },
-    {
-      "source": "新智元",
-      "title": "Claude证出「代数版P≠NP」！73000行Lean代码通过验证",
-      "url": "https://aiera.com.cn/2026/11/25/other/admin/125192/claude%e8%af%81%e5%87%ba%e3%80%8c%e4%bb%a3%e6%95%b0%e7%89%88p%e2%89%a0np%e3%80%8d%ef%bc%8173000%e8%a1%8clean%e4%bb%a3%e7%a0%81%e9%80%9a%e8%bf%87%e9%aa%8c%e8%af%81/",
-      "publishedAt": "2026-11-25T00:11:58Z"
-    },
-    {
-      "source": "新智元",
-      "title": "答对全靠背，Agent只是假装搜索！仅24%准确率 | EMNLP’26 Oral",
-      "url": "https://aiera.com.cn/2026/11/25/other/admin/125168/%e7%ad%94%e5%af%b9%e5%85%a8%e9%9d%a0%e8%83%8c%ef%bc%8cagent%e5%8f%aa%e6%98%af%e5%81%87%e8%a3%85%e6%90%9c%e7%b4%a2%ef%bc%81%e4%bb%8524%e5%87%86%e7%a1%ae%e7%8e%87-emnlp26-oral/",
-      "publishedAt": "2026-11-25T00:10:46Z"
-    },
-    {
-      "source": "新智元",
-      "title": "谷歌Gemini 4破解量子计算「天书」！核聚变进度条拉满了",
-      "url": "https://aiera.com.cn/2026/11/25/other/admin/125152/%e8%b0%b7%e6%ad%8cgemini-4%e7%a0%b4%e8%a7%a3%e9%87%8f%e5%ad%90%e8%ae%a1%e7%ae%97%e3%80%8c%e5%a4%a9%e4%b9%a6%e3%80%8d%ef%bc%81%e6%a0%b8%e8%81%9a%e5%8f%98%e8%bf%9b%e5%ba%a6%e6%9d%a1%e6%8b%89%e6%bb%a1/",
-      "publishedAt": "2026-11-25T00:09:36Z"
-    },
-    {
-      "source": "新智元",
-      "title": "美国「创世纪」一周年，「人类拓界计划」全球引燃！",
-      "url": "https://aiera.com.cn/2026/11/25/other/admin/125135/%e7%be%8e%e5%9b%bd%e3%80%8c%e5%88%9b%e4%b8%96%e7%ba%aa%e3%80%8d%e4%b8%80%e5%91%a8%e5%b9%b4%ef%bc%8c%e3%80%8c%e4%ba%ba%e7%b1%bb%e6%8b%93%e7%95%8c%e8%ae%a1%e5%88%92%e3%80%8d%e5%85%a8%e7%90%83%e5%bc%95/",
-      "publishedAt": "2026-11-25T00:08:27Z"
-    },
-    {
-      "source": "新智元",
-      "title": "Karpathy预言成真！横扫8项全球最高分，硅谷这个LLM新风口落地中国",
-      "url": "https://aiera.com.cn/2026/11/25/other/admin/125120/karpathy%e9%a2%84%e8%a8%80%e6%88%90%e7%9c%9f%ef%bc%81%e6%a8%aa%e6%89%ab8%e9%a1%b9%e5%85%a8%e7%90%83%e6%9c%80%e9%ab%98%e5%88%86%ef%bc%8c%e7%a1%85%e8%b0%b7%e8%bf%99%e4%b8%aallm%e6%96%b0%e9%a3%8e/",
-      "publishedAt": "2026-11-25T00:06:59Z"
-    },
-    {
-      "source": "新智元",
-      "title": "Gemini 4包揽前三！能打败谷歌的只有谷歌",
-      "url": "https://aiera.com.cn/2026/11/25/other/admin/125085/gemini-4%e5%8c%85%e6%8f%bd%e5%89%8d%e4%b8%89%ef%bc%81%e8%83%bd%e6%89%93%e8%b4%a5%e8%b0%b7%e6%ad%8c%e7%9a%84%e5%8f%aa%e6%9c%89%e8%b0%b7%e6%ad%8c/",
-      "publishedAt": "2026-11-25T00:05:16Z"
-    },
-    {
-      "source": "新智元",
-      "title": "华为云发布智能体伙伴开放计划 帮助伙伴搭建流量入口",
-      "url": "https://aiera.com.cn/2026/11/24/other/admin/125067/%e5%8d%8e%e4%b8%ba%e4%ba%91%e5%8f%91%e5%b8%83%e6%99%ba%e8%83%bd%e4%bd%93%e4%bc%99%e4%bc%b4%e5%bc%80%e6%94%be%e8%ae%a1%e5%88%92-%e5%b8%ae%e5%8a%a9%e4%bc%99%e4%bc%b4%e6%90%ad%e5%bb%ba%e6%b5%81%e9%87%8f/",
-      "publishedAt": "2026-11-24T09:07:47Z"
+      "source": "量子位",
+      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+      "url": "https://www.qbitai.com/2026/11/512897.html",
+      "publishedAt": "2026-11-26T03:23:35Z"
     },
     {
       "source": "量子位",
-      "title": "Google Cloud 出海峰会报名开启",
-      "url": "https://www.qbitai.com/2026/11/512370.html",
-      "publishedAt": "2026-11-24T06:52:29Z"
+      "title": "沈向洋刚讲了好多AI非共识啊",
+      "url": "https://www.qbitai.com/2026/11/512840.html",
+      "publishedAt": "2026-11-26T03:13:16Z"
     },
     {
       "source": "量子位",
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "url": "https://www.qbitai.com/2026/11/512362.html",
-      "publishedAt": "2026-11-24T06:35:06Z"
+      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+      "url": "https://www.qbitai.com/2026/11/512828.html",
+      "publishedAt": "2026-11-26T02:53:14Z"
+    },
+    {
+      "source": "新智元",
+      "title": "爆肝实测四大国产AI神器！7大变态考题，逼出最野导演",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/120096/%e7%88%86%e8%82%9d%e5%ae%9e%e6%b5%8b%e5%9b%9b%e5%a4%a7%e5%9b%bd%e4%ba%a7ai%e7%a5%9e%e5%99%a8%ef%bc%817%e5%a4%a7%e5%8f%98%e6%80%81%e8%80%83%e9%a2%98%ef%bc%8c%e9%80%bc%e5%87%ba%e6%9c%80%e9%87%8e/",
+      "publishedAt": "2026-11-26T01:27:52Z"
     },
     {
       "source": "量子位",
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-      "url": "https://www.qbitai.com/2026/11/512354.html",
-      "publishedAt": "2026-11-24T06:22:28Z"
+      "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
+      "url": "https://www.qbitai.com/2026/11/512819.html",
+      "publishedAt": "2026-11-26T00:40:37Z"
+    },
+    {
+      "source": "新智元",
+      "title": "黎曼猜想之后，代数版P≠NP证明了！",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/125372/%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e4%b9%8b%e5%90%8e%ef%bc%8c%e4%bb%a3%e6%95%b0%e7%89%88p%e2%89%a0np%e8%af%81%e6%98%8e%e4%ba%86%ef%bc%81/",
+      "publishedAt": "2026-11-26T00:16:06Z"
+    },
+    {
+      "source": "新智元",
+      "title": "突发！证明黎曼猜想之后，Anthropic未发布AI模型强到令人恐惧",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/125356/%e7%aa%81%e5%8f%91%ef%bc%81%e8%af%81%e6%98%8e%e9%bb%8e%e6%9b%bc%e7%8c%9c%e6%83%b3%e4%b9%8b%e5%90%8e%ef%bc%8canthropic%e6%9c%aa%e5%8f%91%e5%b8%83ai%e6%a8%a1%e5%9e%8b%e5%bc%ba%e5%88%b0%e4%bb%a4%e4%ba%ba/",
+      "publishedAt": "2026-11-26T00:14:54Z"
+    },
+    {
+      "source": "新智元",
+      "title": "史上最大IPO，4天破发！Anthropic比首日开盘一度跌三成",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/125338/%e5%8f%b2%e4%b8%8a%e6%9c%80%e5%a4%a7ipo%ef%bc%8c4%e5%a4%a9%e7%a0%b4%e5%8f%91%ef%bc%81anthropic%e6%af%94%e9%a6%96%e6%97%a5%e5%bc%80%e7%9b%98%e4%b8%80%e5%ba%a6%e8%b7%8c%e4%b8%89%e6%88%90/",
+      "publishedAt": "2026-11-26T00:13:47Z"
+    },
+    {
+      "source": "新智元",
+      "title": "Claude也能用摇杆操控了！一台小街机通吃9大Agent",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/125336/claude%e4%b9%9f%e8%83%bd%e7%94%a8%e6%91%87%e6%9d%86%e6%93%8d%e6%8e%a7%e4%ba%86%ef%bc%81%e4%b8%80%e5%8f%b0%e5%b0%8f%e8%a1%97%e6%9c%ba%e9%80%9a%e5%90%839%e5%a4%a7agent/",
+      "publishedAt": "2026-11-26T00:12:50Z"
+    },
+    {
+      "source": "新智元",
+      "title": "Claude能自己批代码了！8个月前还说那是人的事",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/125318/claude%e8%83%bd%e8%87%aa%e5%b7%b1%e6%89%b9%e4%bb%a3%e7%a0%81%e4%ba%86%ef%bc%818%e4%b8%aa%e6%9c%88%e5%89%8d%e8%bf%98%e8%af%b4%e9%82%a3%e6%98%af%e4%ba%ba%e7%9a%84%e4%ba%8b/",
+      "publishedAt": "2026-11-26T00:09:14Z"
+    },
+    {
+      "source": "新智元",
+      "title": "中国AI视频新王诞生！4800亿参数登顶全球，一折价格还要开源",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/125311/%e4%b8%ad%e5%9b%bdai%e8%a7%86%e9%a2%91%e6%96%b0%e7%8e%8b%e8%af%9e%e7%94%9f%ef%bc%814800%e4%ba%bf%e5%8f%82%e6%95%b0%e7%99%bb%e9%a1%b6%e5%85%a8%e7%90%83%ef%bc%8c%e4%b8%80%e6%8a%98%e4%bb%b7%e6%a0%bc/",
+      "publishedAt": "2026-11-26T00:08:09Z"
+    },
+    {
+      "source": "新智元",
+      "title": "具身评测提速约16倍：上交发布一站式评测工具RoboScopeKit",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/125285/%e5%85%b7%e8%ba%ab%e8%af%84%e6%b5%8b%e6%8f%90%e9%80%9f%e7%ba%a616%e5%80%8d%ef%bc%9a%e4%b8%8a%e4%ba%a4%e5%8f%91%e5%b8%83%e4%b8%80%e7%ab%99%e5%bc%8f%e8%af%84%e6%b5%8b%e5%b7%a5%e5%85%b7roboscopekit/",
+      "publishedAt": "2026-11-26T00:05:38Z"
+    },
+    {
+      "source": "新智元",
+      "title": "神秘模型突降热搜！一夜爆火HungerG，到底是谁？",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/125268/%e7%a5%9e%e7%a7%98%e6%a8%a1%e5%9e%8b%e7%aa%81%e9%99%8d%e7%83%ad%e6%90%9c%ef%bc%81%e4%b8%80%e5%a4%9c%e7%88%86%e7%81%abhungerg%ef%bc%8c%e5%88%b0%e5%ba%95%e6%98%af%e8%b0%81%ef%bc%9f/",
+      "publishedAt": "2026-11-26T00:04:26Z"
+    },
+    {
+      "source": "新智元",
+      "title": "Gemini 4 Neon登顶LiveBench！长流程榜甩开Claude和GPT",
+      "url": "https://aiera.com.cn/2026/11/26/other/admin/125245/gemini-4-neon%e7%99%bb%e9%a1%b6livebench%ef%bc%81%e9%95%bf%e6%b5%81%e7%a8%8b%e6%a6%9c%e7%94%a9%e5%bc%80claude%e5%92%8cgpt/",
+      "publishedAt": "2026-11-26T00:00:49Z"
     },
     {
       "source": "量子位",
-      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-      "url": "https://www.qbitai.com/2026/11/512348.html",
-      "publishedAt": "2026-11-24T06:15:38Z"
+      "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+      "url": "https://www.qbitai.com/2026/11/512748.html",
+      "publishedAt": "2026-11-25T16:34:09Z"
     },
     {
       "source": "量子位",
-      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-      "url": "https://www.qbitai.com/2026/11/512343.html",
-      "publishedAt": "2026-11-24T06:12:16Z"
+      "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "url": "https://www.qbitai.com/2026/11/512727.html",
+      "publishedAt": "2026-11-25T14:51:06Z"
     },
     {
       "source": "量子位",
-      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-      "url": "https://www.qbitai.com/2026/11/512329.html",
-      "publishedAt": "2026-11-24T03:33:48Z"
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+      "url": "https://www.qbitai.com/2026/11/512715.html",
+      "publishedAt": "2026-11-25T14:32:57Z"
     },
     {
       "source": "量子位",
-      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-      "url": "https://www.qbitai.com/2026/11/512330.html",
-      "publishedAt": "2026-11-24T03:30:46Z"
+      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
+      "url": "https://www.qbitai.com/2026/11/512582.html",
+      "publishedAt": "2026-11-25T14:21:20Z"
     },
     {
       "source": "量子位",
-      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-      "url": "https://www.qbitai.com/2026/11/512305.html",
-      "publishedAt": "2026-11-24T03:21:12Z"
+      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
+      "url": "https://www.qbitai.com/2026/11/512683.html",
+      "publishedAt": "2026-11-25T14:20:24Z"
+    },
+    {
+      "source": "量子位",
+      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
+      "url": "https://www.qbitai.com/2026/11/512565.html",
+      "publishedAt": "2026-11-25T11:07:14Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "不再一味堆参数：General Looped Model向计算深度要智能",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076132&idx=2&sn=a96369759d1abdfef8c456a9c776b291",
+      "publishedAt": "2026-11-25T03:10:00Z"
+    },
+    {
+      "source": "机器之心",
+      "title": "通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651076132&idx=1&sn=b275d89079bea4d585f24b284a83baa0",
+      "publishedAt": "2026-11-25T03:10:00Z"
     },
     {
       "source": "机器之心",
@@ -137,24 +167,6 @@
       "title": "560B开源，医疗健康版DeepSeek来了！",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075852&idx=1&sn=583b80f42ea942315343c859db884807",
       "publishedAt": "2026-11-24T03:05:00Z"
-    },
-    {
-      "source": "量子位",
-      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
-      "url": "https://www.qbitai.com/2026/11/512297.html",
-      "publishedAt": "2026-11-24T02:36:08Z"
-    },
-    {
-      "source": "量子位",
-      "title": "具身行业，终于等来了自己的通用智能时刻",
-      "url": "https://www.qbitai.com/2026/11/512264.html",
-      "publishedAt": "2026-11-24T01:51:56Z"
-    },
-    {
-      "source": "新智元",
-      "title": "揭秘Anthropic的「暴利」真相：缓存税！",
-      "url": "https://aiera.com.cn/2026/11/24/other/admin/125064/%e6%8f%ad%e7%a7%98anthropic%e7%9a%84%e3%80%8c%e6%9a%b4%e5%88%a9%e3%80%8d%e7%9c%9f%e7%9b%b8%ef%bc%9a%e7%bc%93%e5%ad%98%e7%a8%8e%ef%bc%81/",
-      "publishedAt": "2026-11-24T00:04:44Z"
     },
     {
       "source": "机器之心",
@@ -185,18 +197,6 @@
       "title": "VLA/WAM已死，基模当立？Mind2Act World通用基准用「知行合一」角度为具身模型诊断进化方向",
       "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075704&idx=1&sn=dd36e17788a25d918f6fbc5c3c0907cb",
       "publishedAt": "2026-11-22T05:21:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075624&idx=3&sn=d08693456bc97db18084229852b76739",
-      "publishedAt": "2026-11-21T04:11:00Z"
-    },
-    {
-      "source": "机器之心",
-      "title": "TML开源新模型，循环Transformer架构，笔记本就能跑",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075624&idx=2&sn=b6e7e23d631dba7a952cbe5da8e77769",
-      "publishedAt": "2026-11-21T04:11:00Z"
     }
   ]
 }
