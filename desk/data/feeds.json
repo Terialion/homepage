@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T06:47:05Z",
+  "generatedAt": "2026-11-27T06:39:32Z",
   "sources": [
     {
       "name": "新智元",
@@ -20,33 +20,69 @@
   "items": [
     {
       "source": "量子位",
-      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "url": "https://www.qbitai.com/2026/11/512897.html",
-      "publishedAt": "2026-11-26T03:23:35Z"
+      "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+      "url": "https://www.qbitai.com/2026/11/513194.html",
+      "publishedAt": "2026-11-27T04:05:56Z"
     },
     {
       "source": "量子位",
-      "title": "沈向洋刚讲了好多AI非共识啊",
-      "url": "https://www.qbitai.com/2026/11/512840.html",
-      "publishedAt": "2026-11-26T03:13:16Z"
+      "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+      "url": "https://www.qbitai.com/2026/11/513211.html",
+      "publishedAt": "2026-11-27T04:05:18Z"
     },
     {
       "source": "量子位",
-      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
-      "url": "https://www.qbitai.com/2026/11/512828.html",
-      "publishedAt": "2026-11-26T02:53:14Z"
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "url": "https://www.qbitai.com/2026/11/513163.html",
+      "publishedAt": "2026-11-27T03:53:49Z"
+    },
+    {
+      "source": "量子位",
+      "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+      "url": "https://www.qbitai.com/2026/11/513155.html",
+      "publishedAt": "2026-11-27T03:45:19Z"
+    },
+    {
+      "source": "量子位",
+      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+      "url": "https://www.qbitai.com/2026/11/513125.html",
+      "publishedAt": "2026-11-27T03:33:11Z"
+    },
+    {
+      "source": "量子位",
+      "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+      "url": "https://www.qbitai.com/2026/11/513101.html",
+      "publishedAt": "2026-11-27T03:23:25Z"
+    },
+    {
+      "source": "量子位",
+      "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+      "url": "https://www.qbitai.com/2026/11/513091.html",
+      "publishedAt": "2026-11-27T02:56:03Z"
+    },
+    {
+      "source": "量子位",
+      "title": "乾崑共创者计划发布：加入乾崑生态，共创出行未来！",
+      "url": "https://www.qbitai.com/2026/11/513087.html",
+      "publishedAt": "2026-11-27T02:19:12Z"
+    },
+    {
+      "source": "量子位",
+      "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+      "url": "https://www.qbitai.com/2026/11/513075.html",
+      "publishedAt": "2026-11-27T02:03:10Z"
+    },
+    {
+      "source": "量子位",
+      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+      "url": "https://www.qbitai.com/2026/11/512981.html",
+      "publishedAt": "2026-11-26T12:39:08Z"
     },
     {
       "source": "新智元",
       "title": "爆肝实测四大国产AI神器！7大变态考题，逼出最野导演",
       "url": "https://aiera.com.cn/2026/11/26/other/admin/120096/%e7%88%86%e8%82%9d%e5%ae%9e%e6%b5%8b%e5%9b%9b%e5%a4%a7%e5%9b%bd%e4%ba%a7ai%e7%a5%9e%e5%99%a8%ef%bc%817%e5%a4%a7%e5%8f%98%e6%80%81%e8%80%83%e9%a2%98%ef%bc%8c%e9%80%bc%e5%87%ba%e6%9c%80%e9%87%8e/",
       "publishedAt": "2026-11-26T01:27:52Z"
-    },
-    {
-      "source": "量子位",
-      "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
-      "url": "https://www.qbitai.com/2026/11/512819.html",
-      "publishedAt": "2026-11-26T00:40:37Z"
     },
     {
       "source": "新智元",
@@ -101,42 +137,6 @@
       "title": "Gemini 4 Neon登顶LiveBench！长流程榜甩开Claude和GPT",
       "url": "https://aiera.com.cn/2026/11/26/other/admin/125245/gemini-4-neon%e7%99%bb%e9%a1%b6livebench%ef%bc%81%e9%95%bf%e6%b5%81%e7%a8%8b%e6%a6%9c%e7%94%a9%e5%bc%80claude%e5%92%8cgpt/",
       "publishedAt": "2026-11-26T00:00:49Z"
-    },
-    {
-      "source": "量子位",
-      "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
-      "url": "https://www.qbitai.com/2026/11/512748.html",
-      "publishedAt": "2026-11-25T16:34:09Z"
-    },
-    {
-      "source": "量子位",
-      "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
-      "url": "https://www.qbitai.com/2026/11/512727.html",
-      "publishedAt": "2026-11-25T14:51:06Z"
-    },
-    {
-      "source": "量子位",
-      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
-      "url": "https://www.qbitai.com/2026/11/512715.html",
-      "publishedAt": "2026-11-25T14:32:57Z"
-    },
-    {
-      "source": "量子位",
-      "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
-      "url": "https://www.qbitai.com/2026/11/512582.html",
-      "publishedAt": "2026-11-25T14:21:20Z"
-    },
-    {
-      "source": "量子位",
-      "title": "逐际动⼒与商汤⼤装置达成合作，以高质量算力全⾯⽀撑机器⼈仿真训练与测试",
-      "url": "https://www.qbitai.com/2026/11/512683.html",
-      "publishedAt": "2026-11-25T14:20:24Z"
-    },
-    {
-      "source": "量子位",
-      "title": "9400万参数硬刚50亿，权重显存直降98%！Loop架构被这家中国团队玩明白了",
-      "url": "https://www.qbitai.com/2026/11/512565.html",
-      "publishedAt": "2026-11-25T11:07:14Z"
     },
     {
       "source": "机器之心",
